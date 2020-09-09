@@ -72,9 +72,8 @@ $on-laptop:        1200px !default;
   text-align: center;
   font-style: normal !important;
   line-height: 22px;
-
+  
   em {
-    line-height: $base-line-height * 1.5;
     color: $grey-color-dark;
   }
 }
