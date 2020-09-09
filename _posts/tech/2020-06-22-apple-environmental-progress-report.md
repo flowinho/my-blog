@@ -56,6 +56,8 @@ Ich habe mich mal durch den [60-seitigen Umweltbericht von Apple](https://www.ap
     - Alle finalen Fertigungslinien für iPhone, iPad, Mac, Apple Watch, AirPods, HomePod und AppleTV sind Zero-Waste zertifiziert.
 - Apple veröffentlicht einen separaten Umwelt-Bericht zur Wiederverwendung Produktmaterialien.
 
+---
+
 # Fortschritte in der Material-Wiederverwendung, grob zusammengefasst
 
 |Material|Fortschritt|
