@@ -72,7 +72,7 @@ $on-laptop:        1200px !default;
   text-align: center;
   font-style: normal !important;
   line-height: 22px;
-  
+
   em {
     color: $grey-color-dark;
   }
@@ -81,4 +81,32 @@ $on-laptop:        1200px !default;
 .post-content a::after {
   content: " 🔗";
   font-size: smaller;
+}
+
+.post-list .post-link {
+  font-size: 18px;
+}
+
+.post-meta {
+  font-size: 14px;
+}
+
+hr {
+  overflow: visible; /* For IE */
+  padding: 0;
+  border: none;
+  border-top: medium double $brand-color;
+  color: $brand-color;
+  text-align: center;
+  margin-top: 36px;
+  margin-bottom: 12px;
+}
+hr:after {
+  content: "➰";
+  display: inline-block;
+  position: relative;
+  top: -0.7em;
+  font-size: 1.5em;
+  padding: 0 0.25em;
+  background: white;
 }
