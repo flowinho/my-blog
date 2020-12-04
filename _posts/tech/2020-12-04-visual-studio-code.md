@@ -30,7 +30,7 @@ Es ist sogar noch schlimmer. Der Programmcode des Editors ist frei verfügbar, a
 
 > The VSCodium project exists so that you don’t have to download+build from source. This project includes special build scripts that clone Microsoft’s vscode repo, run the build commands, and upload the resulting binaries for you to GitHub releases. These binaries are licensed under the MIT license. Telemetry is disabled.
 
-Visual Studio Code ist sicherlein ein toller **Editor**, und **kann, wenn durch die Community dazu ermächtigt**, eine *Erweiterung* zu einer IDE darstellen, dieser aber in den meisten Fälle nicht *ersetzen.* Meiner Meinung nach lehnt sich Microsoft hier aber zu weit aus dem Fenster. 
+Visual Studio Code ist sicherlich ein toller **Editor**, und **kann, wenn durch die Community dazu ermächtigt**, eine *Erweiterung* zu einer IDE darstellen, dieser aber in den meisten Fälle nicht *ersetzen.* Meiner Meinung nach lehnt sich Microsoft hier aber zu weit aus dem Fenster. 
 
 - Die Arbeit der Community wird nicht genug betont.
 - Microsoft bewirbt einen Text-Editor als Intelligent Development Environment.
