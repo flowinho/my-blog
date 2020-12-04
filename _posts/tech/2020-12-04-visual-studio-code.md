@@ -17,7 +17,7 @@ Nun, folgendes:
 
 ![](/assets/images/2020-12-04-vscode.png)
 
-VSCode ist in erster Linie ein modularer, erweiterbarer **Text-Editor**. Zu einer IDE für bestimmte Sprache wird diese Software erst, wenn Sie durch die Community entsprechend *erweitert wird.* Und genau hier steckt der Knackpunkt: Microsoft stellt mit VSCode ein, zugegebenermaßen sehr solides, Grundgerüst bereit, dass von der Community erst zu dem gemacht wird, dass es bis heute geworden ist. 
+VSCode ist in erster Linie ein modularer, erweiterbarer **Text-Editor**. Zu einer IDE für bestimmte Sprachen wird diese Software erst, wenn Sie durch die Community entsprechend *erweitert wird.* Und genau hier steckt der Knackpunkt: Microsoft stellt mit VSCode ein, zugegebenermaßen sehr solides, Grundgerüst bereit, dass von der Community erst zu dem gemacht wird, dass es bis heute geworden ist. 
 
 Beispielsweise sorgt die Community für:
   - Die Erweiterung des Editors um **Sprachen** wie SWIFT, GO und PERL sowie *Versuchen* für diese Sprachen entsprechende Compiler zur Verfügung zu stellen.
