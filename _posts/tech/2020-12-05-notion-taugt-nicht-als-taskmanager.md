@@ -3,7 +3,7 @@ layout: post
 title:  "Warum mir Notion als TaskManager nicht taugt"
 ---
 
-![](../../assets/images/2020-12-05-ladefuchs-notion.png)
+![](/assets/images/2020-12-05-ladefuchs-notion.png)
 
 Notion ist ein wundervolles Tool, und wer es noch nicht kennt sollte unbedingt einen Blick darauf werfen. Es ist derart vielfältig,
 dass sich damit die meisten Anwendungsfälle abbilden lassen, sei es Organisation eines Podcasts, einer App, einer Firma, eines selbständigen Unternehmens, einer Familie oder dem hiesigen Badminton-Verein.
