@@ -1,39 +1,51 @@
 @charset "utf-8";
 
-@font-face {
-  font-family: "Roboto-Regular";
-  src: url("../assets/fonts/Roboto/Roboto-Regular.ttf");
-}
-@font-face {
-  font-family: "PlayfairDisplay-Regular";
-  src: url("../assets/fonts/PlayfairDisplay/PlayfairDisplay-Regular.ttf");
-}
+// Nord-Theme colors
 
-$base-font-family: "Roboto-Regular", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$header-font-family: "PlayfairDisplay-Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$base-font-size:   16px !default;
-$base-font-weight: 400 !default;
-$header-font-weight: 400 !default;
-$small-font-size:  $base-font-size !default; // * 0.875
+$nord0: #2e3440;
+$nord1: #3b4252;
+$nord2: #434c5e;
+$nord3: #4c566a;
+$nord4: #d8dee9;
+$nord5: #e5e9f0;
+$nord6: #eceff4;
+$nord7: #8fbcbb;
+$nord8: #88c0d0;
+$nord9: #81a1c1;
+$nord10: #5e81ac;
+$nord11: #bf616a;
+$nord12: #d08770;
+$nord13: #ebcb8b;
+$nord14: #a3be8c;
+$nord15: #b48ead;
+
+// Define defaults for each variable.
+
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-size:   15px !default;
+$base-font-weight: 200 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
-$spacing-unit:     20px !default;
+$spacing-unit:     30px !default;
 
+//$text-color:       $nord5;
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:     #993366 !default;
+//$background-color: $nord0 !default;
+$brand-color:      #7c972c !default;
 
 $grey-color:       #828282 !default;
-$blockquote-background-color: #fff5fa !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
 $table-text-align: left !default;
 
-$content-width:    1200px !default;
+// Width of the content area
+$content-width:    1000px !default;
 
-$on-palm:          800px !default;
-$on-laptop:        1200px !default;
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
 
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
@@ -47,66 +59,8 @@ $on-laptop:        1200px !default;
 
 // Import partials.
 @import
+  "hack",
   "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
+  "minima/layout"//,
+//   "minima/syntax-highlighting"
 ;
-
-.post-content p {
-  line-height: 22px;
-	color: #000;
-}
-
-.post-content img {
-  max-width: 100% !important;
-  margin: auto !important;
-  display: block !important;
-}
-
-.post-content blockquote {
-  margin-top: 24px;
-  margin-bottom: 24px;
-  background-color: $blockquote-background-color;
-  border-left: 4px solid $brand-color;
-  padding: 12px;
-  text-align: center;
-  font-style: normal !important;
-  line-height: 22px;
-
-  em {
-    color: $grey-color-dark;
-  }
-}
-
-.post-content a::after {
-  content: " 🔗";
-  font-size: smaller;
-}
-
-.post-list .post-link {
-  font-size: 18px;
-}
-
-.post-meta {
-  font-size: 14px;
-}
-
-hr {
-  overflow: visible; /* For IE */
-  padding: 0;
-  border: none;
-  border-top: medium double $brand-color;
-  color: $brand-color;
-  text-align: center;
-  margin-top: 36px;
-  margin-bottom: 12px;
-}
-hr:after {
-  content: "➰";
-  display: inline-block;
-  position: relative;
-  top: -0.7em;
-  font-size: 1.5em;
-  padding: 0 0.25em;
-  background: white;
-}

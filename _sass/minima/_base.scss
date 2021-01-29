@@ -26,8 +26,55 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+}
+
+.nord0 {
+  color: $nord0;
+}
+.nord1 {
+  color: $nord1;
+}
+.nord2 {
+  color: $nord2;
+}
+.nord3 {
+  color: $nord3;
+}
+.nord4 {
+  color: $nord4;
+}
+.nord5 {
+  color: $nord5;
+}
+.nord6 {
+  color: $nord6;
+}
+.nord7 {
+  color: $nord7;
+}
+.nord8 {
+  color: $nord8;
+}
+.nord9 {
+  color: $nord9;
+}
+.nord10 {
+  color: $nord10;
+}
+.nord11 {
+  color: $nord11;
+}
+.nord12 {
+  color: $nord12;
+}
+.nord13 {
+  color: $nord13;
+}
+.nord14 {
+  color: $nord14;
+}
+.nord15 {
+  color: $nord15;
 }
 
 /**
@@ -49,7 +96,19 @@ main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
+.post {
+  a::after {
+    font-family: 'Hack NF';
+    content: "  "
+  }
+}
 
+.page {
+  a::after {
+    font-family: 'Hack NF';
+    content: "  "
+  }
+}
 
 /**
  * Images
@@ -94,19 +153,10 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $header-font-weight;
-  font-family: $header-font-family;
+  font-weight: $base-font-weight;
 }
 
-.post-content h1, h2, h3, h4, h5, h6 {
-  margin-top: 16px;
-  margin-bottom: 24px;
-}
 
-.post-title {
-  margin-top: 2px;
-  margin-bottom: 8px;
-}
 
 /**
  * Links
@@ -115,14 +165,14 @@ a {
   color: $brand-color;
   text-decoration: none;
 
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
+  // &:visited {
+  //   color: darken($brand-color, 15%);
+  // }
 
-  &:hover {
-    color: $text-color;
-    text-decoration: underline;
-  }
+  // &:hover {
+  //   color: $text-color;
+  //   text-decoration: underline;
+  // }
 
   .social-media-list &:hover {
     text-decoration: none;
@@ -141,6 +191,9 @@ blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-light;
   padding-left: $spacing-unit / 2;
+  @include relative-font-size(1.125);
+  letter-spacing: -1px;
+  font-style: italic;
 
   > :last-child {
     margin-bottom: 0;

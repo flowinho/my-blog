@@ -1,38 +1,42 @@
+body {
+  -moz-osx-font-smoothing: grayscale;
+text-rendering: optimizeLegibility;
+
+}
 /**
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  // border-bottom: 1px solid $grey-color-dark;
-  background-color: $brand-color;
-  // min-height: $spacing-unit * 1.865;
+  border-top: 3px solid $brand-color;
+  border-bottom: 1px solid $grey-color-light;
+  min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
   position: relative;
 }
 
 .site-title {
-  @include relative-font-size(1.225);
-  font-family: $header-font-family;
+  @include relative-font-size(1.325);
   font-weight: 300;
-  line-height: $base-line-height * $base-font-size; // * 2.25;
-  // letter-spacing: -1px;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  
   margin-bottom: 0;
-  padding: 4px;
   float: left;
-  color: $grey-color-light;
+  color: $brand-color;
+  font-family: 'Hack NF';
 
   &,
-  &:visited,
-  &:hover {
-    color: $grey-color-light;
+  &:visited {
+    color: $brand-color;
   }
+
+  
 }
 
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
-
+  @include relative-font-size(0.9);
   .nav-trigger {
       display: none;
   }
@@ -42,8 +46,9 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $brand-color;
     line-height: $base-line-height;
+    font-family: 'Hack NF';
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -79,7 +84,7 @@
       text-align: center;
 
       > svg {
-        fill: $grey-color-dark;
+        fill: $brand-color;
       }
     }
 
@@ -110,19 +115,59 @@
 /**
  * Site footer
  */
-.site-footer {
-  border-top: 1px solid $grey-color-dark;
-  padding: 4px 0;
-  background-color: $grey-color-light;
+.technical-info-message {
+  border-top: 1px solid $grey-color-light;
+  padding-top: 12px;
   text-align: center;
-  color: $grey-color-dark;
-  font-size: 11px;
+  @include relative-font-size(0.8);
+  margin-bottom: $spacing-unit / 2;
+  font-family: 'Hack NF';
+}
+
+.site-footer {
+  border-top: 1px solid $grey-color-light;
+  padding: $spacing-unit 0;
+}
+
+.footer-heading {
+  @include relative-font-size(1.125);
+  margin-bottom: $spacing-unit / 2;
+  font-family: 'Hack NF';
 }
 
 .contact-list,
 .social-media-list {
   list-style: none;
   margin-left: 0;
+}
+
+.footer-col-wrapper {
+  @include relative-font-size(0.8);
+  font-family: 'Hack NF';
+  color: $grey-color;
+  margin-left: -$spacing-unit / 2;
+  @extend %clearfix;
+}
+
+.footer-col {
+  float: left;
+  margin-bottom: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
+}
+
+.footer-col-1 {
+  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+  width:         calc(35% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+  width:         calc(20% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
+  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+  width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -175,7 +220,8 @@
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  font-family: 'Hack NF';
+  color: $nord3;
 }
 
 .post-link {
@@ -184,7 +230,9 @@
 }
 
 
-
+.post-list h3 {
+  margin-bottom: 2px; 
+}
 /**
  * Posts
  */
@@ -193,8 +241,8 @@
 }
 
 .post-title {
-  @include relative-font-size(2.225);
-  // letter-spacing: -1px;
+  @include relative-font-size(2.625);
+  letter-spacing: -1px;
   line-height: 1;
 
   @include media-query($on-laptop) {
@@ -205,7 +253,7 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
-  h1 {
+  h2 {
     @include relative-font-size(2);
 
     @include media-query($on-laptop) {
@@ -213,7 +261,7 @@
     }
   }
 
-  h2 {
+  h3 {
     @include relative-font-size(1.625);
 
     @include media-query($on-laptop) {
@@ -221,19 +269,12 @@
     }
   }
 
-  h3 {
+  h4 {
     @include relative-font-size(1.25);
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
   }
-
-  h4 {
-    @include relative-font-size(1.0);
-
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.0);
-    }
-  }
+  
 }
