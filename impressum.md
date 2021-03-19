@@ -10,7 +10,7 @@ permalink: /impressum/
 <p>71640 Ludwigsburg</p>
 <p>Deutschland</p>
 <h2 id="m56">Kontaktmöglichkeiten</h2><p><strong>E-Mail-Adresse:</strong> <a href="mailto:contact@flowinho.com">contact@flowinho.com</a></p>
-<p><strong>Kontaktformular:</strong> <a href="https://code.fschuttkowski.xyz/kontakt/" target="_blank">https://code.fschuttkowski.xyz/kontakt/</a></p>
+
 <h2 id="m154">Journalistisch-redaktionelle Angebote</h2><p><strong>Inhaltlich verantwortlich:</strong> Florian Schuttkowski (Adresse wie oben)</p>
 <h2 id="m172">Social Media und andere Onlinepräsenzen</h2><p><strong>Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Onlineprofile:</strong> </p>
 <p><a href="https://twitter.com/flowinho" target="_blank">https://twitter.com/flowinho</a></p>
