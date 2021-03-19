@@ -2,7 +2,7 @@ title: ".codeVault {  }"
 email: "contact [at] flowinho [com]"
 author: "Florian Schuttkowski"
 description: >- # this means to ignore newlines until "baseurl:"
-  Durch meine Arbeit an verschiedensten Projekten lerne ich das Eine oder Andere. Ich werfe diese Elemente hier rein, zur späteren Referenzierung und zu eurer Unterhaltung.
+  Durch meine Arbeit an verschiedensten Projekten lerne ich das Eine oder Andere. In meiner Freizeit werfe ich diese Elemente hier rein, zur späteren Referenzierung und zu eurer Unterhaltung.
 dedication: >-
   Gewidmet meinen wundervollen Kindern. ♥️
 permalink: :year/:month/:day/:title:output_ext
