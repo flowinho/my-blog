@@ -1,7 +1,10 @@
 ---
 layout: home
-title: Readme.md
 ---
+## Zustand des Repositories
+
+![](https://img.shields.io/github/languages/count/flowinho/my-blog) ![](https://img.shields.io/github/languages/top/flowinho/my-blog) ![](https://img.shields.io/github/languages/code-size/flowinho/my-blog) ![](https://img.shields.io/github/repo-size/flowinho/my-blog) ![](https://img.shields.io/github/license/flowinho/my-blog) ![](https://img.shields.io/github/commit-activity/m/flowinho/my-blog) ![](https://img.shields.io/github/contributors/flowinho/my-blog) ![](https://img.shields.io/github/last-commit/flowinho/my-blog) ![](https://img.shields.io/github/deployments/flowinho/my-blog/github-pages?label=github-pages) ![](https://img.shields.io/badge/dedicated--to-my--daughters-important)
+## Lizenz
 
 Die Inhalte dieses Blogs und aller seiner Seiten sind wie unten um Fußbereich gekennzeichnet lizensiert mit CC BY-NC-SA 4.0 -- bitte was? Die Abkürzung CC-BY-NC-SA 4.0 steht für Creative Commons BY attribution Non-Commercial Share Alike 4.0.
 
