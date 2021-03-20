@@ -13,7 +13,7 @@ Photo by <a href="https://unsplash.com/@jetlag?utm_source=unsplash&utm_medium=re
 
 Aber läd das Foto auch wirklich erst _nach_ der eigentlichen Seite und ihrem Content? Ein Blick in den Network-Tab der Firefox Dev-Tools verrät die Antwort: Ja! Die Webseite wird geladen und angezeigt _bevor_ das Bild selbst abgefragt wird.
 
-![](../../assets/posts/2021-03-20-browser-network-performance.png)
+![](/assets/posts/2021-03-20-browser-network-performance.png)
 
 Möglich wird diese Herangehensweise durch die Javascript-Library [LazySizes](https://github.com/aFarkas/lazysizes/blob/gh-pages/README.md). Alle `<img>`, `<iframe>` oder `<script>` Elemente die mit der Klasse `lazyload` gekennzeichnet werden implementieren lazy loading. Es geht kaum einfacher! 
 
