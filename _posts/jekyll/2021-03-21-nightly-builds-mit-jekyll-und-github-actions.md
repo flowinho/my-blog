@@ -15,6 +15,8 @@ Die Antwort ist sehr simpel: um Beiträge planen zu können. Jekyll Blogs sind s
 
 Doch statische Webseiten hab auch Nachteile. So lassen sich beispielsweise ohne Continuous Integration bzw. Nightly Builds keine Beiträge einplanen. Denn selbst wenn ein Post, wie dieser hier, ein zukünftiges Datum trägt, wird die statische Seite nur bei jedem Push gebaut. Wer also nicht jede Nacht manuell einen push durchführen möchte, braucht eine Pipeline, die idealerweise Nachts um 00:00 Uhr oder 03:00 Uhr läuft.
 
+Des weiteren eignen sich Jekyll Builds über GitHub Actions besonders gut für GitHub-Pages, da auf diese Weise die von Microsoft definierten Blacklist von Jekyll-Plugins und Ruby-Gems umgehen werden kann.
+
 Dieser Post wird eine solche Pipeline für einen Jekyll Blog mittels GitHub Actions umsetzen, das Prinzip lässt sich aber auf beliebige Integrations-Services ausweiten.
 
 ## GitHub Actions + Jekyll = ❤️
@@ -59,5 +61,7 @@ Nach dem Datei erstellt und befüllt wurde sollten wir sie über "Start Commit" 
 Zurücklehnen und genießen!
 
 ![](/assets/posts/2021-03-21-github-action-jekyll.png)
+
+Nun muss noch ein evtl. bestehendes GitHub-Pages Environment vom Repository entfernt werden, damit die Action genutzt wird, und nicht das default Environment.
 
 Und wenn alles geklappt hat, gehe ich jetzt schlafen, und dieser Post taucht morgen in meinem devDiary auf! 🖖🏻
