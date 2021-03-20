@@ -1,10 +1,10 @@
     
     <!-- General Opengraph attributes -->
-    <meta content=".devDiary { }" property="og:site_name">
+    <meta content="{{ site.opengraphTitle}}" property="og:site_name">
     {% if page.title %}
         <meta content="{{ page.title }}" property="og:title">
     {% else %}
-        <meta content=".devDiary { }" property="og:title">
+        <meta content="{{ site.opengraphTitle}}" property="og:title">
     {% endif %}
     {% if page.title %}
         <meta content="article" property="og:type">
