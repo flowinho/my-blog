@@ -64,4 +64,4 @@ Zurücklehnen und genießen!
 
 Nun muss noch ein evtl. bestehendes GitHub-Pages Environment vom Repository entfernt werden, damit die Action genutzt wird, und nicht das default Environment.
 
-Und wenn alles geklappt hat, gehe ich jetzt schlafen, und dieser Post taucht morgen in meinem devDiary auf! 🖖🏻
+Und wenn alles geklappt hat,  taucht dieser Post morgen in meinem devDiary auf! 🖖🏻
