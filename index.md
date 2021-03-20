@@ -2,7 +2,9 @@
 layout: home
 ---
 
-![](https://img.shields.io/github/languages/count/flowinho/my-blog) ![](https://img.shields.io/github/languages/top/flowinho/my-blog) ![](https://img.shields.io/github/languages/code-size/flowinho/my-blog) ![](https://img.shields.io/github/repo-size/flowinho/my-blog) ![](https://img.shields.io/github/license/flowinho/my-blog) ![](https://img.shields.io/github/commit-activity/m/flowinho/my-blog) ![](https://img.shields.io/github/contributors/flowinho/my-blog) ![](https://img.shields.io/github/last-commit/flowinho/my-blog) ![](https://img.shields.io/github/deployments/flowinho/my-blog/github-pages?label=github-pages) ![](https://img.shields.io/badge/dedicated--to-my--daughters-important)
+**Status**
+
+![](https://img.shields.io/github/languages/count/flowinho/my-blog) ![](https://img.shields.io/github/languages/top/flowinho/my-blog) ![](https://img.shields.io/github/languages/code-size/flowinho/my-blog) ![](https://img.shields.io/github/repo-size/flowinho/my-blog) ![](https://img.shields.io/github/contributors/flowinho/my-blog) ![](https://img.shields.io/github/last-commit/flowinho/my-blog) ![](https://img.shields.io/github/deployments/flowinho/my-blog/github-pages?label=github-pages) ![](https://img.shields.io/badge/dedicated--to-my--daughters-important)
 
 **Lizensierung**
 
