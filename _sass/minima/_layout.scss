@@ -16,7 +16,7 @@ text-rendering: optimizeLegibility;
 }
 
 .site-title {
-  @include relative-font-size(1.325);
+  @include relative-font-size(1.225);
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   
