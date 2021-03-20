@@ -1,0 +1,41 @@
+    
+    <!-- General Opengraph attributes -->
+    <meta content=".devDiary { }" property="og:site_name">
+    {% if page.title %}
+        <meta content="{{ page.title }}" property="og:title">
+    {% else %}
+        <meta content=".devDiary { }" property="og:title">
+    {% endif %}
+    {% if page.title %}
+        <meta content="article" property="og:type">
+    {% else %}
+        <meta content="website" property="og:type">
+    {% endif %}
+    {% if page.url %}
+        <meta content="{{ site.baseurl }}{{ page.url }}" property="og:url">
+    {% endif %}
+
+    {% if page.date %}
+        <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+        <meta content="{{ site.url }}/ueber-mich/" property="article:author">
+    {% endif %}
+
+    {% if page.opengraphImage %}
+        <meta content="{{ page.opengraphImage }}" property="og:image">
+    {% else %}
+        <meta content="/assets/opengraphPlaceholder.jpg" property="og:image">
+    {% endif %}
+
+    <!-- Post specific Opengraph attributes -->
+    {% if page.categories %}
+  {% for category in page.categories limit:1 %}
+  <meta content="{{ category }}" property="article:section">
+  {% endfor %}
+{% endif %}
+{% if page.tags %}
+  {% for tag in page.tags %}
+  <meta content="{{ tag }}" property="article:tag">
+  {% endfor %}
+{% endif %}
+    
+    <!-- End of Opengraph -->

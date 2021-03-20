@@ -3,6 +3,7 @@ title: "Lazy Loading für Bilder zu einem Jekyll blog hinzufügen"
 layout: post
 tags: .html .js
 categories: ~/code ~/jekyll
+opengraphImage: /assets/posts/2021-03-20-%20david-troeger-9XzyEzPAHMI-unsplash.jpg
 ---
 
 Es folgt ein 5.44 MB grosses Bild.
