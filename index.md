@@ -6,6 +6,8 @@ layout: home
 
 ![](https://img.shields.io/github/languages/count/flowinho/my-blog) ![](https://img.shields.io/github/languages/top/flowinho/my-blog) ![](https://img.shields.io/github/languages/code-size/flowinho/my-blog) ![](https://img.shields.io/github/repo-size/flowinho/my-blog) ![](https://img.shields.io/github/contributors/flowinho/my-blog) ![](https://img.shields.io/github/last-commit/flowinho/my-blog) ![](https://img.shields.io/github/deployments/flowinho/my-blog/github-pages?label=github-pages) ![](https://img.shields.io/badge/dedicated--to-my--daughters-important)
 
+![](https://github.com/flowinho/my-blog/actions/workflows/github-pages.yml/badge.svg)
+
 **Lizensierung**
 
 Die Inhalte dieses Blogs und aller seiner Seiten sind lizensiert mit CC BY-NC-SA 4.0 -- bitte was? Die Abkürzung CC-BY-NC-SA 4.0 steht für Creative Commons BY attribution Non-Commercial Share Alike 4.0.
