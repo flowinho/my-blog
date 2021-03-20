@@ -3,7 +3,7 @@ name: GitHub Actions Nightly Build
 on:
   #push:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "1 0 * * *"
 
 jobs:
   jekyll:
