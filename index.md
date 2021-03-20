@@ -8,7 +8,7 @@ layout: home
 
 **Lizensierung**
 
-Die Inhalte dieses Blogs und aller seiner Seiten sind wie unten um Fußbereich gekennzeichnet lizensiert mit CC BY-NC-SA 4.0 -- bitte was? Die Abkürzung CC-BY-NC-SA 4.0 steht für Creative Commons BY attribution Non-Commercial Share Alike 4.0.
+Die Inhalte dieses Blogs und aller seiner Seiten sind lizensiert mit CC BY-NC-SA 4.0 -- bitte was? Die Abkürzung CC-BY-NC-SA 4.0 steht für Creative Commons BY attribution Non-Commercial Share Alike 4.0.
 
 Ihr könnt meine Inhalte also auf folgende Art und Weise verwenden:
 
