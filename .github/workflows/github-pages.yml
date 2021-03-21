@@ -25,7 +25,17 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: 'gh-pages'
       
-    - uses: peaceiris/actions-gh-pages@v3
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: _site
+    - name: Deploy site
+      run: |
+        cd _site
+        git init
+        git config user.name "GitHub"
+        git config user.email "noreply@github.com"
+        git remote add deploy https://${{ secrets.GITHUB_TOKEN }}@github.com/<yourname>/<yourname>.github.io.git >/dev/null 2>&1
+        git fetch --depth=1 deploy gh-pages
+        git reset --soft FETCH_HEAD
+        git checkout -B gh-pages
+        git add --all
+        git commit --message "Auto deploy from GitHub Actions build $GITHUB_RUN_NUMBER"
+        git push deploy gh-pages >/dev/null 2>&1
+
