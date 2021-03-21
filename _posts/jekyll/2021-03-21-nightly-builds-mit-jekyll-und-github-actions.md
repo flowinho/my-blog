@@ -63,6 +63,8 @@ Kleines Schmankerl: GitHub Actions zeigt die Auflösung der eingetragenen Cron-S
 
 Nach dem Datei erstellt und befüllt wurde sollten wir sie über "Start Commit" im Webinterface oder einen `git push` ins Repository speichern. Dieser Vorgang führt auch gleich zu einer initialen Ausführung der Action. 
 
+Wer die Actions die diesen Blog bauen in Aktion sehen möchte, kann sie jederzeit gerne [hier](https://github.com/flowinho/my-blog/actions/runs/672710303) betrachten.
+
 Zurücklehnen und genießen!
 
 ![](/assets/posts/2021-03-21-github-action-jekyll.png)
