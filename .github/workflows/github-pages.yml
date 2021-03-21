@@ -1,7 +1,7 @@
 name: GitHub Actions Nightly Build
 
 on:
-  #push:
+  push:
   schedule:
     - cron: "1 0 * * *"
 
