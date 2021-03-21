@@ -32,7 +32,7 @@ Hier nun der kommentierte Inhalt von `github-pages.yml`:
 on:
   push:                     # Sobald ein neuer Commit auf einen beliebigen Branch gepushed wurde.
   schedule:                 # Build mittels cron-Syntax einplanen.
-    - cron: "0 0 * * *"
+    - cron: "1 6 * * *"     # Morgens, 06:01 Uhr UTC
 
 # Das Keyword `jobs` definiert die auszuführenden Schritte.
 jobs:
@@ -54,7 +54,12 @@ jobs:
     - uses:  helaili/jekyll-action@v2       # Eine GitHub-Action, gewartet von einem Mitglied des Jekyll-Teams.
       with:                                 # Das AccessToken um den Build auszuführen.
         token: ${{ secrets.GITHUB_TOKEN }}{% endraw %}
+        target_branch: 'gh-pages'           # Diese Branchspezifikation ist notwendig, um den bestehenden Branch zu überschreiben.
 ```
+
+Kleines Schmankerl: GitHub Actions zeigt die Auflösung der eingetragenen Cron-Syntax als Popup an.
+
+![](/assets/posts/2021-03-21-github-actions-cron-popover.png)
 
 Nach dem Datei erstellt und befüllt wurde sollten wir sie über "Start Commit" im Webinterface oder einen `git push` ins Repository speichern. Dieser Vorgang führt auch gleich zu einer initialen Ausführung der Action. 
 
