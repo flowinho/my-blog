@@ -1,9 +1,9 @@
 name: GitHub Actions Nightly Build
 
 on:
-  #push:
+  push:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "1 6 * * *"
 
 jobs:
   jekyll:
@@ -23,3 +23,4 @@ jobs:
     - uses:  helaili/jekyll-action@v2
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        target_branch: 'gh-pages'

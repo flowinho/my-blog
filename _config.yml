@@ -13,6 +13,8 @@ twitter_username: flowinho
 github_username:  flowinho
 
 # Build settings
+future: false
+timezone: Europe/Berlin
 theme: minima
 plugins:
   - jekyll-feed

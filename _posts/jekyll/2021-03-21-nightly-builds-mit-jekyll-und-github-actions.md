@@ -7,7 +7,7 @@ opengraphImage: /assets/posts/2021-03-21-github-action-jekyll.png
 ---
 
 Dieser Post ist eine Art selbst-validierendes Experiment. Geschrieben am 20.03.2021, aber _datiert_ auf den 21.03.2021. Das bedeutet er wird nur im Blog sichtbar, 
-wenn heute Nacht, 00:00 GMT+1 die entsprechende GitHub Action aktiv wird und diesen Blog baut. Hoffen wir dass es klappt! 🤞🏻
+wenn heute Nacht, 00:00 GMT+1 die entsprechende GitHub Action aktiv wird und diesen Blog baut. Hoffen wir dass es klappt! 🤞🏻😊
 
 ## Warum Nightly Builds für einen Blog?
 
