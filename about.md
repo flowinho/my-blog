@@ -20,6 +20,8 @@ Das Problem an dieser Sache und an About-Seiten wie dieser? Jeder kann jeden Bul
 
 Ist es nicht völlig egal was ich hier schreibe? Welchen Effekt hätte es wenn ich schreiben würde dass ich mich seit über einem Jahrzehnt mit Technologie beschäftige? Dass ich Teil eines Podcasts bin der sich hauptsächlich um Technologie dreht? Schenken mir die Menschen mehr Vertrauen? Wird mir mehr Kompetenz zugestanden? 
 
+![](/assets/illustrations/illustratious_yoga.svg)
+
 Möglicherweise. Das wäre das gängige Muster. Aber mal ehrlich: ich kann hier ja behaupten was ich will, die Qualität meiner Posts soll euch überzeugen, nicht die Ahnenfolge meiner Dynastie. Und mal ganz ehrlich -- dass ich mich gerne mit Technologie beschäftige ergibt sich doch allein aus der Tatsache dass ich einen Blog wie diesen betreibe, oder?
 
 Wenn ihr etwas über mich erfahren wollt, meine politische Einstellung, meiner Einstellung zu Technologie oder zu den Themen die mir wichtig sind, dann entnehmt diese Informationen bitte in und / oder zwischen den Zeilen meiner Postings. Vielleicht ist diese Strategie durchaus auch valide um mehr über die Autoren anderer Websites zu erfahren. 
