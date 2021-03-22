@@ -5,6 +5,7 @@ tags: .cpp
 categories: ~/artikel
 ---
 
+![](/assets/illustrations/illustratious_discussions.svg)
 ## Cpp ist komplex
 - Steile Lernkurve
 - Projekte können sehr komplex und groß werden, ist das was für mich?

@@ -1,0 +1,1984 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="420.10865104033593" height="523.9080589040627"><g transform="matrix(2.0044306414311346,0,0,2.0139659176553275,0.5055320485182051,52.38960005689259)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="209.1" height="208.11"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="209.1" height="208.11" class="class-1x3ep6pd8"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 209.1 208.11" class="class-1x3ep6pd8">
+    <g data-name="Layer 2">
+        <g data-name="Layer 1" class="fill-color-0">
+            <path d="M196.51 160.37A43.34 43.34 0 01179 177.73c-9.41 5-23.29 7.92-41.2-.11C102 161.55 95 127.9 58.92 131.81s-100.63-60.4-20.64-96.36C116.81.14 250.76 62.94 196.51 160.37z" opacity=".5"></path>
+            <path d="M84.05 1.81a43.37 43.37 0 0124.68 0c10.18 3.08 22.13 10.74 29.23 29 14.19 36.6-4.49 65.46 23.9 88s29.13 113.68-53 83.06C28.14 171.81-23 33 84.05 1.81z"></path>
+        </g>
+    </g>
+</svg></svg><style>.class-1x3ep6pd8 .fill-skin {
+  fill: #f1d9b1;
+}
+.class-1x3ep6pd8 .fill-skin-shadow {
+  fill: #ebc78d;
+}
+.class-1x3ep6pd8 .fill-hair {
+  fill: #c0c6b5;
+}
+.class-1x3ep6pd8 .fill-hair-shadow {
+  fill: #aeb59f;
+}
+.class-1x3ep6pd8 .fill-white {
+  fill: #fbfcfb;
+}
+.class-1x3ep6pd8 .fill-white-shadow {
+  fill: #dee6de;
+}
+.class-1x3ep6pd8 .fill-white-shadow-extra {
+  fill: #c4d2c4;
+}
+.class-1x3ep6pd8 .stop-color-white {
+  stop-color: #fbfcfb;
+}
+.class-1x3ep6pd8 .stop-color-white-shadow {
+  stop-color: #dee6de;
+}
+.class-1x3ep6pd8 .stop-color-white-shadow-extra {
+  stop-color: #c4d2c4;
+}
+.class-1x3ep6pd8 .stroke-white {
+  stroke: #fbfcfb;
+}
+.class-1x3ep6pd8 .stroke-white-shadow {
+  stroke: #dee6de;
+}
+.class-1x3ep6pd8 .stroke-white-shadow-extra {
+  stroke: #b4c6b4;
+}
+.class-1x3ep6pd8 .fill-yellow {
+  fill: #eaea00;
+}
+.class-1x3ep6pd8 .fill-yellow-shadow {
+  fill: #dada00;
+}
+.class-1x3ep6pd8 .fill-yellow-shadow-extra {
+  fill: #cbcb00;
+}
+.class-1x3ep6pd8 .stop-color-yellow {
+  stop-color: #eaea00;
+}
+.class-1x3ep6pd8 .stop-color-yellow-shadow {
+  stop-color: #dada00;
+}
+.class-1x3ep6pd8 .stop-color-yellow-shadow-extra {
+  stop-color: #cbcb00;
+}
+.class-1x3ep6pd8 .fill-green {
+  fill: #2ba24c;
+}
+.class-1x3ep6pd8 .fill-green-shadow {
+  fill: #279244;
+}
+.class-1x3ep6pd8 .fill-green-shadow-extra {
+  fill: #23833d;
+}
+.class-1x3ep6pd8 .stop-color-green {
+  stop-color: #2ba24c;
+}
+.class-1x3ep6pd8 .stop-color-green-shadow {
+  stop-color: #279244;
+}
+.class-1x3ep6pd8 .stop-color-green-shadow-extra {
+  stop-color: #23833d;
+}
+.class-1x3ep6pd8 .stroke-green {
+  stroke: #2ba24c;
+}
+.class-1x3ep6pd8 .stroke-green-shadow {
+  stroke: #279244;
+}
+.class-1x3ep6pd8 .stroke-green-shadow-extra {
+  stroke: #217a39;
+}
+.class-1x3ep6pd8 .fill-red {
+  fill: #ce3827;
+}
+.class-1x3ep6pd8 .fill-red-shadow {
+  fill: #b93223;
+}
+.class-1x3ep6pd8 .fill-red-shadow-extra {
+  fill: #a62d1f;
+}
+.class-1x3ep6pd8 .stop-color-red {
+  stop-color: #ce3827;
+}
+.class-1x3ep6pd8 .stop-color-red-shadow {
+  stop-color: #b93223;
+}
+.class-1x3ep6pd8 .stop-color-red-shadow-extra {
+  stop-color: #a62d1f;
+}
+.class-1x3ep6pd8 .fill-orange {
+  fill: #f09c25;
+}
+.class-1x3ep6pd8 .fill-orange-shadow {
+  fill: #e98f10;
+}
+.class-1x3ep6pd8 .fill-orange-shadow-extra {
+  fill: #d1800e;
+}
+.class-1x3ep6pd8 .stop-color-orange {
+  stop-color: #f09c25;
+}
+.class-1x3ep6pd8 .stop-color-orange-shadow {
+  stop-color: #e98f10;
+}
+.class-1x3ep6pd8 .stop-color-orange-shadow-extra {
+  stop-color: #d1800e;
+}
+.class-1x3ep6pd8 .fill-blue {
+  fill: #3b7ded;
+}
+.class-1x3ep6pd8 .fill-blue-shadow {
+  fill: #1f6bea;
+}
+.class-1x3ep6pd8 .fill-blue-shadow-extra {
+  fill: #145eda;
+}
+.class-1x3ep6pd8 .stop-color-blue {
+  stop-color: #3b7ded;
+}
+.class-1x3ep6pd8 .stop-color-blue-shadow {
+  stop-color: #1f6bea;
+}
+.class-1x3ep6pd8 .stop-color-blue-shadow-extra {
+  stop-color: #145eda;
+}
+.class-1x3ep6pd8 .fill-color-0 {
+  fill: #c0c6b5;
+}
+.class-1x3ep6pd8 .fill-color-0-shadow {
+  fill: #aeb59f;
+}
+.class-1x3ep6pd8 .fill-color-0-shadow-extra {
+  fill: #949d80;
+}
+.class-1x3ep6pd8 .stop-color-color-0 {
+  stop-color: #c0c6b5;
+}
+.class-1x3ep6pd8 .fill-color-1 {
+  fill: #fefefe;
+}
+.class-1x3ep6pd8 .fill-color-1-shadow {
+  fill: #e4e4e4;
+}
+.class-1x3ep6pd8 .fill-color-1-shadow-extra {
+  fill: #bfbfbf;
+}
+.class-1x3ep6pd8 .fill-color-2 {
+  fill: #f7f8f7;
+}
+.class-1x3ep6pd8 .fill-color-2-shadow {
+  fill: #dce1dc;
+}
+.class-1x3ep6pd8 .fill-color-2-shadow-extra {
+  fill: #b5bfb5;
+}
+.class-1x3ep6pd8 .fill-color-3 {
+  fill: #566554;
+}
+.class-1x3ep6pd8 .fill-color-3-shadow {
+  fill: #4d5b4b;
+}
+.class-1x3ep6pd8 .fill-color-3-shadow-extra {
+  fill: #404c3f;
+}
+.class-1x3ep6pd8 .fill-body-detail {
+  fill: #ffffff;
+}
+.class-1x3ep6pd8 .stroke-color-0 {
+  stroke: #c0c6b5;
+}
+.class-1x3ep6pd8 .stroke-color-0-shadow {
+  stroke: #aeb59f;
+}
+.class-1x3ep6pd8 .stroke-color-0-shadow-extra {
+  stroke: #949d80;
+}
+.class-1x3ep6pd8 .stroke-color-1 {
+  stroke: #fefefe;
+}
+.class-1x3ep6pd8 .stroke-color-1-shadow {
+  stroke: #e4e4e4;
+}
+.class-1x3ep6pd8 .stroke-color-1-shadow-extra {
+  stroke: #bfbfbf;
+}
+.class-1x3ep6pd8 .stroke-color-2 {
+  stroke: #f7f8f7;
+}
+.class-1x3ep6pd8 .stroke-color-2-shadow {
+  stroke: #dce1dc;
+}
+.class-1x3ep6pd8 .stroke-color-2-shadow-extra {
+  stroke: #b5bfb5;
+}
+.class-1x3ep6pd8 .stroke-color-3 {
+  stroke: #566554;
+}
+.class-1x3ep6pd8 .stroke-color-3-shadow {
+  stroke: #4d5b4b;
+}
+.class-1x3ep6pd8 .stroke-color-3-shadow-extra {
+  stroke: #404c3f;
+}</style></svg></g><g transform="matrix(1,0,0,1,53.500651040335924,92)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="173.26" height="8.34"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="173.26" height="8.34" class="class-ms03stt91"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 173.26 8.34" class="class-ms03stt91">
+    <g data-name="Layer 2">
+        <path d="M173.26 8.34a25.83 25.83 0 01-19-8.34 25.79 25.79 0 01-19 8.34 25.83 25.83 0 01-19-8.34 25.79 25.79 0 01-19 8.34A25.83 25.83 0 0178.18 0a25.79 25.79 0 01-19 8.34A25.79 25.79 0 0140.16 0a25.83 25.83 0 01-19 8.34H0" data-name="Layer 1" class="fill-color-0"></path>
+    </g>
+</svg></svg><style>.class-ms03stt91 .fill-skin {
+  fill: #f1d9b1;
+}
+.class-ms03stt91 .fill-skin-shadow {
+  fill: #ebc78d;
+}
+.class-ms03stt91 .fill-hair {
+  fill: #fbfcfb;
+}
+.class-ms03stt91 .fill-hair-shadow {
+  fill: #dee6de;
+}
+.class-ms03stt91 .fill-white {
+  fill: #fbfcfb;
+}
+.class-ms03stt91 .fill-white-shadow {
+  fill: #dee6de;
+}
+.class-ms03stt91 .fill-white-shadow-extra {
+  fill: #c4d2c4;
+}
+.class-ms03stt91 .stop-color-white {
+  stop-color: #fbfcfb;
+}
+.class-ms03stt91 .stop-color-white-shadow {
+  stop-color: #dee6de;
+}
+.class-ms03stt91 .stop-color-white-shadow-extra {
+  stop-color: #c4d2c4;
+}
+.class-ms03stt91 .stroke-white {
+  stroke: #fbfcfb;
+}
+.class-ms03stt91 .stroke-white-shadow {
+  stroke: #dee6de;
+}
+.class-ms03stt91 .stroke-white-shadow-extra {
+  stroke: #b4c6b4;
+}
+.class-ms03stt91 .fill-yellow {
+  fill: #eaea00;
+}
+.class-ms03stt91 .fill-yellow-shadow {
+  fill: #dada00;
+}
+.class-ms03stt91 .fill-yellow-shadow-extra {
+  fill: #cbcb00;
+}
+.class-ms03stt91 .stop-color-yellow {
+  stop-color: #eaea00;
+}
+.class-ms03stt91 .stop-color-yellow-shadow {
+  stop-color: #dada00;
+}
+.class-ms03stt91 .stop-color-yellow-shadow-extra {
+  stop-color: #cbcb00;
+}
+.class-ms03stt91 .fill-green {
+  fill: #2ba24c;
+}
+.class-ms03stt91 .fill-green-shadow {
+  fill: #279244;
+}
+.class-ms03stt91 .fill-green-shadow-extra {
+  fill: #23833d;
+}
+.class-ms03stt91 .stop-color-green {
+  stop-color: #2ba24c;
+}
+.class-ms03stt91 .stop-color-green-shadow {
+  stop-color: #279244;
+}
+.class-ms03stt91 .stop-color-green-shadow-extra {
+  stop-color: #23833d;
+}
+.class-ms03stt91 .stroke-green {
+  stroke: #2ba24c;
+}
+.class-ms03stt91 .stroke-green-shadow {
+  stroke: #279244;
+}
+.class-ms03stt91 .stroke-green-shadow-extra {
+  stroke: #217a39;
+}
+.class-ms03stt91 .fill-red {
+  fill: #ce3827;
+}
+.class-ms03stt91 .fill-red-shadow {
+  fill: #b93223;
+}
+.class-ms03stt91 .fill-red-shadow-extra {
+  fill: #a62d1f;
+}
+.class-ms03stt91 .stop-color-red {
+  stop-color: #ce3827;
+}
+.class-ms03stt91 .stop-color-red-shadow {
+  stop-color: #b93223;
+}
+.class-ms03stt91 .stop-color-red-shadow-extra {
+  stop-color: #a62d1f;
+}
+.class-ms03stt91 .fill-orange {
+  fill: #f09c25;
+}
+.class-ms03stt91 .fill-orange-shadow {
+  fill: #e98f10;
+}
+.class-ms03stt91 .fill-orange-shadow-extra {
+  fill: #d1800e;
+}
+.class-ms03stt91 .stop-color-orange {
+  stop-color: #f09c25;
+}
+.class-ms03stt91 .stop-color-orange-shadow {
+  stop-color: #e98f10;
+}
+.class-ms03stt91 .stop-color-orange-shadow-extra {
+  stop-color: #d1800e;
+}
+.class-ms03stt91 .fill-blue {
+  fill: #3b7ded;
+}
+.class-ms03stt91 .fill-blue-shadow {
+  fill: #1f6bea;
+}
+.class-ms03stt91 .fill-blue-shadow-extra {
+  fill: #145eda;
+}
+.class-ms03stt91 .stop-color-blue {
+  stop-color: #3b7ded;
+}
+.class-ms03stt91 .stop-color-blue-shadow {
+  stop-color: #1f6bea;
+}
+.class-ms03stt91 .stop-color-blue-shadow-extra {
+  stop-color: #145eda;
+}
+.class-ms03stt91 .fill-color-0 {
+  fill: #fbfcfb;
+}
+.class-ms03stt91 .fill-color-0-shadow {
+  fill: #dee6de;
+}
+.class-ms03stt91 .fill-color-0-shadow-extra {
+  fill: #b4c6b4;
+}
+.class-ms03stt91 .stop-color-color-0 {
+  stop-color: #fbfcfb;
+}
+.class-ms03stt91 .fill-body-detail {
+  fill: #ffffff;
+}
+.class-ms03stt91 .stroke-color-0 {
+  stroke: #fbfcfb;
+}
+.class-ms03stt91 .stroke-color-0-shadow {
+  stroke: #dee6de;
+}
+.class-ms03stt91 .stroke-color-0-shadow-extra {
+  stroke: #b4c6b4;
+}</style></svg></g><g transform="matrix(1.3021355188733696,0,0,1.3021355188733703,194.5006546167579,314.8121216572983)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="173.26" height="8.34"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="173.26" height="8.34" class="class-2j0tkmchl"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 173.26 8.34" class="class-2j0tkmchl">
+    <g data-name="Layer 2">
+        <path d="M173.26 8.34a25.83 25.83 0 01-19-8.34 25.79 25.79 0 01-19 8.34 25.83 25.83 0 01-19-8.34 25.79 25.79 0 01-19 8.34A25.83 25.83 0 0178.18 0a25.79 25.79 0 01-19 8.34A25.79 25.79 0 0140.16 0a25.83 25.83 0 01-19 8.34H0" data-name="Layer 1" class="fill-color-0"></path>
+    </g>
+</svg></svg><style>.class-2j0tkmchl .fill-skin {
+  fill: #f1d9b1;
+}
+.class-2j0tkmchl .fill-skin-shadow {
+  fill: #ebc78d;
+}
+.class-2j0tkmchl .fill-hair {
+  fill: #fbfcfb;
+}
+.class-2j0tkmchl .fill-hair-shadow {
+  fill: #dee6de;
+}
+.class-2j0tkmchl .fill-white {
+  fill: #fbfcfb;
+}
+.class-2j0tkmchl .fill-white-shadow {
+  fill: #dee6de;
+}
+.class-2j0tkmchl .fill-white-shadow-extra {
+  fill: #c4d2c4;
+}
+.class-2j0tkmchl .stop-color-white {
+  stop-color: #fbfcfb;
+}
+.class-2j0tkmchl .stop-color-white-shadow {
+  stop-color: #dee6de;
+}
+.class-2j0tkmchl .stop-color-white-shadow-extra {
+  stop-color: #c4d2c4;
+}
+.class-2j0tkmchl .stroke-white {
+  stroke: #fbfcfb;
+}
+.class-2j0tkmchl .stroke-white-shadow {
+  stroke: #dee6de;
+}
+.class-2j0tkmchl .stroke-white-shadow-extra {
+  stroke: #b4c6b4;
+}
+.class-2j0tkmchl .fill-yellow {
+  fill: #eaea00;
+}
+.class-2j0tkmchl .fill-yellow-shadow {
+  fill: #dada00;
+}
+.class-2j0tkmchl .fill-yellow-shadow-extra {
+  fill: #cbcb00;
+}
+.class-2j0tkmchl .stop-color-yellow {
+  stop-color: #eaea00;
+}
+.class-2j0tkmchl .stop-color-yellow-shadow {
+  stop-color: #dada00;
+}
+.class-2j0tkmchl .stop-color-yellow-shadow-extra {
+  stop-color: #cbcb00;
+}
+.class-2j0tkmchl .fill-green {
+  fill: #2ba24c;
+}
+.class-2j0tkmchl .fill-green-shadow {
+  fill: #279244;
+}
+.class-2j0tkmchl .fill-green-shadow-extra {
+  fill: #23833d;
+}
+.class-2j0tkmchl .stop-color-green {
+  stop-color: #2ba24c;
+}
+.class-2j0tkmchl .stop-color-green-shadow {
+  stop-color: #279244;
+}
+.class-2j0tkmchl .stop-color-green-shadow-extra {
+  stop-color: #23833d;
+}
+.class-2j0tkmchl .stroke-green {
+  stroke: #2ba24c;
+}
+.class-2j0tkmchl .stroke-green-shadow {
+  stroke: #279244;
+}
+.class-2j0tkmchl .stroke-green-shadow-extra {
+  stroke: #217a39;
+}
+.class-2j0tkmchl .fill-red {
+  fill: #ce3827;
+}
+.class-2j0tkmchl .fill-red-shadow {
+  fill: #b93223;
+}
+.class-2j0tkmchl .fill-red-shadow-extra {
+  fill: #a62d1f;
+}
+.class-2j0tkmchl .stop-color-red {
+  stop-color: #ce3827;
+}
+.class-2j0tkmchl .stop-color-red-shadow {
+  stop-color: #b93223;
+}
+.class-2j0tkmchl .stop-color-red-shadow-extra {
+  stop-color: #a62d1f;
+}
+.class-2j0tkmchl .fill-orange {
+  fill: #f09c25;
+}
+.class-2j0tkmchl .fill-orange-shadow {
+  fill: #e98f10;
+}
+.class-2j0tkmchl .fill-orange-shadow-extra {
+  fill: #d1800e;
+}
+.class-2j0tkmchl .stop-color-orange {
+  stop-color: #f09c25;
+}
+.class-2j0tkmchl .stop-color-orange-shadow {
+  stop-color: #e98f10;
+}
+.class-2j0tkmchl .stop-color-orange-shadow-extra {
+  stop-color: #d1800e;
+}
+.class-2j0tkmchl .fill-blue {
+  fill: #3b7ded;
+}
+.class-2j0tkmchl .fill-blue-shadow {
+  fill: #1f6bea;
+}
+.class-2j0tkmchl .fill-blue-shadow-extra {
+  fill: #145eda;
+}
+.class-2j0tkmchl .stop-color-blue {
+  stop-color: #3b7ded;
+}
+.class-2j0tkmchl .stop-color-blue-shadow {
+  stop-color: #1f6bea;
+}
+.class-2j0tkmchl .stop-color-blue-shadow-extra {
+  stop-color: #145eda;
+}
+.class-2j0tkmchl .fill-color-0 {
+  fill: #fbfcfb;
+}
+.class-2j0tkmchl .fill-color-0-shadow {
+  fill: #dee6de;
+}
+.class-2j0tkmchl .fill-color-0-shadow-extra {
+  fill: #b4c6b4;
+}
+.class-2j0tkmchl .stop-color-color-0 {
+  stop-color: #fbfcfb;
+}
+.class-2j0tkmchl .fill-body-detail {
+  fill: #ffffff;
+}
+.class-2j0tkmchl .stroke-color-0 {
+  stroke: #fbfcfb;
+}
+.class-2j0tkmchl .stroke-color-0-shadow {
+  stroke: #dee6de;
+}
+.class-2j0tkmchl .stroke-color-0-shadow-extra {
+  stroke: #b4c6b4;
+}</style></svg></g><g transform="matrix(6.2307193932652,0,0,6.230719393265205,117.48767424651838,0.000702979062026543)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="35.22" height="70.39"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="35.22" height="70.39" class="class-a865fubfl"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.22 70.39" class="class-a865fubfl">
+    <g data-name="Layer 2">
+        <g data-name="Layer 1">
+            <rect width="35.22" height="70.39" rx="7.64" class="fill-color-0-shadow"></rect>
+            <path d="M2.8 3.19h29.62v61.34H2.8z" class="fill-color-1-shadow"></path>
+            <circle cx="17.61" cy="67.7" r="1.2" class="fill-color-0"></circle>
+            <path d="M31.63 0h-28A3.59 3.59 0 000 3.59v15.79l35.22 34.8V3.59A3.59 3.59 0 0031.63 0z" fill-rule="evenodd" class="fill-color-0-shadow"></path>
+            <path fill-rule="evenodd" d="M2.8 22.14l29.62 29.27V3.19H2.8v18.95z" class="fill-color-1"></path>
+        </g>
+    </g>
+</svg></svg><style>.class-a865fubfl .fill-skin {
+  fill: #f1d9b1;
+}
+.class-a865fubfl .fill-skin-shadow {
+  fill: #ebc78d;
+}
+.class-a865fubfl .fill-hair {
+  fill: #b2bcab;
+}
+.class-a865fubfl .fill-hair-shadow {
+  fill: #9fac97;
+}
+.class-a865fubfl .fill-white {
+  fill: #fbfcfb;
+}
+.class-a865fubfl .fill-white-shadow {
+  fill: #dee6de;
+}
+.class-a865fubfl .fill-white-shadow-extra {
+  fill: #c4d2c4;
+}
+.class-a865fubfl .stop-color-white {
+  stop-color: #fbfcfb;
+}
+.class-a865fubfl .stop-color-white-shadow {
+  stop-color: #dee6de;
+}
+.class-a865fubfl .stop-color-white-shadow-extra {
+  stop-color: #c4d2c4;
+}
+.class-a865fubfl .stroke-white {
+  stroke: #fbfcfb;
+}
+.class-a865fubfl .stroke-white-shadow {
+  stroke: #dee6de;
+}
+.class-a865fubfl .stroke-white-shadow-extra {
+  stroke: #b4c6b4;
+}
+.class-a865fubfl .fill-yellow {
+  fill: #eaea00;
+}
+.class-a865fubfl .fill-yellow-shadow {
+  fill: #dada00;
+}
+.class-a865fubfl .fill-yellow-shadow-extra {
+  fill: #cbcb00;
+}
+.class-a865fubfl .stop-color-yellow {
+  stop-color: #eaea00;
+}
+.class-a865fubfl .stop-color-yellow-shadow {
+  stop-color: #dada00;
+}
+.class-a865fubfl .stop-color-yellow-shadow-extra {
+  stop-color: #cbcb00;
+}
+.class-a865fubfl .fill-green {
+  fill: #2ba24c;
+}
+.class-a865fubfl .fill-green-shadow {
+  fill: #279244;
+}
+.class-a865fubfl .fill-green-shadow-extra {
+  fill: #23833d;
+}
+.class-a865fubfl .stop-color-green {
+  stop-color: #2ba24c;
+}
+.class-a865fubfl .stop-color-green-shadow {
+  stop-color: #279244;
+}
+.class-a865fubfl .stop-color-green-shadow-extra {
+  stop-color: #23833d;
+}
+.class-a865fubfl .stroke-green {
+  stroke: #2ba24c;
+}
+.class-a865fubfl .stroke-green-shadow {
+  stroke: #279244;
+}
+.class-a865fubfl .stroke-green-shadow-extra {
+  stroke: #217a39;
+}
+.class-a865fubfl .fill-red {
+  fill: #ce3827;
+}
+.class-a865fubfl .fill-red-shadow {
+  fill: #b93223;
+}
+.class-a865fubfl .fill-red-shadow-extra {
+  fill: #a62d1f;
+}
+.class-a865fubfl .stop-color-red {
+  stop-color: #ce3827;
+}
+.class-a865fubfl .stop-color-red-shadow {
+  stop-color: #b93223;
+}
+.class-a865fubfl .stop-color-red-shadow-extra {
+  stop-color: #a62d1f;
+}
+.class-a865fubfl .fill-orange {
+  fill: #f09c25;
+}
+.class-a865fubfl .fill-orange-shadow {
+  fill: #e98f10;
+}
+.class-a865fubfl .fill-orange-shadow-extra {
+  fill: #d1800e;
+}
+.class-a865fubfl .stop-color-orange {
+  stop-color: #f09c25;
+}
+.class-a865fubfl .stop-color-orange-shadow {
+  stop-color: #e98f10;
+}
+.class-a865fubfl .stop-color-orange-shadow-extra {
+  stop-color: #d1800e;
+}
+.class-a865fubfl .fill-blue {
+  fill: #3b7ded;
+}
+.class-a865fubfl .fill-blue-shadow {
+  fill: #1f6bea;
+}
+.class-a865fubfl .fill-blue-shadow-extra {
+  fill: #145eda;
+}
+.class-a865fubfl .stop-color-blue {
+  stop-color: #3b7ded;
+}
+.class-a865fubfl .stop-color-blue-shadow {
+  stop-color: #1f6bea;
+}
+.class-a865fubfl .stop-color-blue-shadow-extra {
+  stop-color: #145eda;
+}
+.class-a865fubfl .fill-color-0 {
+  fill: #b2bcab;
+}
+.class-a865fubfl .fill-color-0-shadow {
+  fill: #9fac97;
+}
+.class-a865fubfl .fill-color-0-shadow-extra {
+  fill: #84957a;
+}
+.class-a865fubfl .stop-color-color-0 {
+  stop-color: #b2bcab;
+}
+.class-a865fubfl .fill-color-1 {
+  fill: #fbfcfb;
+}
+.class-a865fubfl .fill-color-1-shadow {
+  fill: #dee6de;
+}
+.class-a865fubfl .fill-color-1-shadow-extra {
+  fill: #b4c6b4;
+}
+.class-a865fubfl .fill-body-detail {
+  fill: #ffffff;
+}
+.class-a865fubfl .stroke-color-0 {
+  stroke: #b2bcab;
+}
+.class-a865fubfl .stroke-color-0-shadow {
+  stroke: #9fac97;
+}
+.class-a865fubfl .stroke-color-0-shadow-extra {
+  stroke: #84957a;
+}
+.class-a865fubfl .stroke-color-1 {
+  stroke: #fbfcfb;
+}
+.class-a865fubfl .stroke-color-1-shadow {
+  stroke: #dee6de;
+}
+.class-a865fubfl .stroke-color-1-shadow-extra {
+  stroke: #b4c6b4;
+}</style></svg></g><g transform="matrix(1.6806395125164961,0,0,1.680639512516496,172.70099405919524,118.71312359643532)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="63.19" height="83.71"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="63.19" height="83.71" class="class-cj6922ut1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63.19 83.71" class="class-cj6922ut1">
+    <g data-name="Layer 2">
+        <g data-name="Layer 1">
+            <path d="M58.98 15.74L60 32.61l-7.59-16.87h6.57zM2.5 15.74L0 76.45l5.36 3.58 4.28-64.29H2.5z" class="fill-color-0-shadow"></path>
+            <path d="M60.67 23.02H5.03L2.5 83.71h60.69l-2.52-60.69z" class="fill-color-0"></path>
+            <path d="M18.39 0v16.28h2.36V2.35h12.58v13.93h2.52V0H18.39z" class="fill-color-0-shadow-extra"></path>
+            <path d="M60.67 23.02H5.03l1.26-3.64-3.79-3.64h56.48l-1.26 3.64 2.95 3.64z" class="fill-color-0-shadow-extra"></path>
+            <path d="M22.6 6.74v16.28h2.36V9.09h12.58v13.93h2.52V6.74H22.6zM18.39 83.71h44.8l-1.92-46.3S50.9 71.32 18.39 83.71z" class="fill-color-0-shadow"></path>
+            <path d="M40.31 45.05c0 .43-.63.81-.71 1.23s.39 1 .25 1.4-.88.55-1.09.92 0 1.07-.25 1.4-1 .21-1.34.49-.34 1-.71 1.23-1-.15-1.42 0-.66.84-1.09.91-.9-.48-1.34-.48-.92.56-1.34.48-.69-.76-1.09-.91-1.05.21-1.42 0-.39-1-.72-1.23-1.04-.16-1.33-.49 0-1-.25-1.4-.94-.51-1.09-.92.32-1 .24-1.4-.7-.8-.7-1.23.63-.82.7-1.24-.39-1-.24-1.4.87-.54 1.09-.92 0-1.07.25-1.39 1-.22 1.33-.49.34-1 .72-1.23 1 .14 1.42 0 .66-.83 1.09-.91.9.48 1.34.48.92-.55 1.34-.48.69.77 1.09.91 1.05-.21 1.42 0 .39.95.71 1.23 1.06.16 1.34.49 0 1 .25 1.4.94.5 1.09.91-.32 1-.25 1.4.71.8.71 1.24z" class="fill-color-1"></path>
+            <circle cx="32.61" cy="45.05" r="9.22" fill="none" stroke-miterlimit="10" stroke-width=".25" class="stroke-color-1"></circle>
+        </g>
+    </g>
+</svg></svg><style>.class-cj6922ut1 .fill-skin {
+  fill: #f1d9b1;
+}
+.class-cj6922ut1 .fill-skin-shadow {
+  fill: #ebc78d;
+}
+.class-cj6922ut1 .fill-hair {
+  fill: #3c473b;
+}
+.class-cj6922ut1 .fill-hair-shadow {
+  fill: #364035;
+}
+.class-cj6922ut1 .fill-white {
+  fill: #fbfcfb;
+}
+.class-cj6922ut1 .fill-white-shadow {
+  fill: #dee6de;
+}
+.class-cj6922ut1 .fill-white-shadow-extra {
+  fill: #c4d2c4;
+}
+.class-cj6922ut1 .stop-color-white {
+  stop-color: #fbfcfb;
+}
+.class-cj6922ut1 .stop-color-white-shadow {
+  stop-color: #dee6de;
+}
+.class-cj6922ut1 .stop-color-white-shadow-extra {
+  stop-color: #c4d2c4;
+}
+.class-cj6922ut1 .stroke-white {
+  stroke: #fbfcfb;
+}
+.class-cj6922ut1 .stroke-white-shadow {
+  stroke: #dee6de;
+}
+.class-cj6922ut1 .stroke-white-shadow-extra {
+  stroke: #b4c6b4;
+}
+.class-cj6922ut1 .fill-yellow {
+  fill: #eaea00;
+}
+.class-cj6922ut1 .fill-yellow-shadow {
+  fill: #dada00;
+}
+.class-cj6922ut1 .fill-yellow-shadow-extra {
+  fill: #cbcb00;
+}
+.class-cj6922ut1 .stop-color-yellow {
+  stop-color: #eaea00;
+}
+.class-cj6922ut1 .stop-color-yellow-shadow {
+  stop-color: #dada00;
+}
+.class-cj6922ut1 .stop-color-yellow-shadow-extra {
+  stop-color: #cbcb00;
+}
+.class-cj6922ut1 .fill-green {
+  fill: #2ba24c;
+}
+.class-cj6922ut1 .fill-green-shadow {
+  fill: #279244;
+}
+.class-cj6922ut1 .fill-green-shadow-extra {
+  fill: #23833d;
+}
+.class-cj6922ut1 .stop-color-green {
+  stop-color: #2ba24c;
+}
+.class-cj6922ut1 .stop-color-green-shadow {
+  stop-color: #279244;
+}
+.class-cj6922ut1 .stop-color-green-shadow-extra {
+  stop-color: #23833d;
+}
+.class-cj6922ut1 .stroke-green {
+  stroke: #2ba24c;
+}
+.class-cj6922ut1 .stroke-green-shadow {
+  stroke: #279244;
+}
+.class-cj6922ut1 .stroke-green-shadow-extra {
+  stroke: #217a39;
+}
+.class-cj6922ut1 .fill-red {
+  fill: #ce3827;
+}
+.class-cj6922ut1 .fill-red-shadow {
+  fill: #b93223;
+}
+.class-cj6922ut1 .fill-red-shadow-extra {
+  fill: #a62d1f;
+}
+.class-cj6922ut1 .stop-color-red {
+  stop-color: #ce3827;
+}
+.class-cj6922ut1 .stop-color-red-shadow {
+  stop-color: #b93223;
+}
+.class-cj6922ut1 .stop-color-red-shadow-extra {
+  stop-color: #a62d1f;
+}
+.class-cj6922ut1 .fill-orange {
+  fill: #f09c25;
+}
+.class-cj6922ut1 .fill-orange-shadow {
+  fill: #e98f10;
+}
+.class-cj6922ut1 .fill-orange-shadow-extra {
+  fill: #d1800e;
+}
+.class-cj6922ut1 .stop-color-orange {
+  stop-color: #f09c25;
+}
+.class-cj6922ut1 .stop-color-orange-shadow {
+  stop-color: #e98f10;
+}
+.class-cj6922ut1 .stop-color-orange-shadow-extra {
+  stop-color: #d1800e;
+}
+.class-cj6922ut1 .fill-blue {
+  fill: #3b7ded;
+}
+.class-cj6922ut1 .fill-blue-shadow {
+  fill: #1f6bea;
+}
+.class-cj6922ut1 .fill-blue-shadow-extra {
+  fill: #145eda;
+}
+.class-cj6922ut1 .stop-color-blue {
+  stop-color: #3b7ded;
+}
+.class-cj6922ut1 .stop-color-blue-shadow {
+  stop-color: #1f6bea;
+}
+.class-cj6922ut1 .stop-color-blue-shadow-extra {
+  stop-color: #145eda;
+}
+.class-cj6922ut1 .fill-color-0 {
+  fill: #3c473b;
+}
+.class-cj6922ut1 .fill-color-0-shadow {
+  fill: #364035;
+}
+.class-cj6922ut1 .fill-color-0-shadow-extra {
+  fill: #2d362c;
+}
+.class-cj6922ut1 .stop-color-color-0 {
+  stop-color: #3c473b;
+}
+.class-cj6922ut1 .fill-color-1 {
+  fill: #8a9475;
+}
+.class-cj6922ut1 .fill-color-1-shadow {
+  fill: #7c8668;
+}
+.class-cj6922ut1 .fill-color-1-shadow-extra {
+  fill: #687057;
+}
+.class-cj6922ut1 .fill-body-detail {
+  fill: #ffffff;
+}
+.class-cj6922ut1 .stroke-color-0 {
+  stroke: #3c473b;
+}
+.class-cj6922ut1 .stroke-color-0-shadow {
+  stroke: #364035;
+}
+.class-cj6922ut1 .stroke-color-0-shadow-extra {
+  stroke: #2d362c;
+}
+.class-cj6922ut1 .stroke-color-1 {
+  stroke: #8a9475;
+}
+.class-cj6922ut1 .stroke-color-1-shadow {
+  stroke: #7c8668;
+}
+.class-cj6922ut1 .stroke-color-1-shadow-extra {
+  stroke: #687057;
+}</style></svg></g><g transform="matrix(0.07393183956426982,0,0,0.07393183956426981,182.17753254342904,270.1545123360187)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="230.72" height="220.33"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="230.72" height="220.33" class="class-g34xxntgg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230.72 220.33" class="class-g34xxntgg">
+    <g data-name="Layer 2">
+        <path d="M123.59 5.11L152.13 63a9.19 9.19 0 006.87 5l63.82 9.27A9.17 9.17 0 01228 92.88l-46.19 45a9.19 9.19 0 00-2.64 8.12L190 209.59a9.17 9.17 0 01-13.3 9.67l-57.09-30a9.21 9.21 0 00-8.54 0l-57.07 30a9.18 9.18 0 01-13.31-9.67L51.6 146a9.18 9.18 0 00-2.6-8.1l-46.19-45a9.17 9.17 0 015.05-15.66L71.69 68a9.16 9.16 0 006.9-5l28.55-57.89a9.18 9.18 0 0116.45 0z" data-name="Layer 1" class="fill-color-0"></path>
+    </g>
+</svg></svg><style>.class-g34xxntgg .fill-skin {
+  fill: #f1d9b1;
+}
+.class-g34xxntgg .fill-skin-shadow {
+  fill: #ebc78d;
+}
+.class-g34xxntgg .fill-hair {
+  fill: #8a9475;
+}
+.class-g34xxntgg .fill-hair-shadow {
+  fill: #7c8668;
+}
+.class-g34xxntgg .fill-white {
+  fill: #fbfcfb;
+}
+.class-g34xxntgg .fill-white-shadow {
+  fill: #dee6de;
+}
+.class-g34xxntgg .fill-white-shadow-extra {
+  fill: #c4d2c4;
+}
+.class-g34xxntgg .stop-color-white {
+  stop-color: #fbfcfb;
+}
+.class-g34xxntgg .stop-color-white-shadow {
+  stop-color: #dee6de;
+}
+.class-g34xxntgg .stop-color-white-shadow-extra {
+  stop-color: #c4d2c4;
+}
+.class-g34xxntgg .stroke-white {
+  stroke: #fbfcfb;
+}
+.class-g34xxntgg .stroke-white-shadow {
+  stroke: #dee6de;
+}
+.class-g34xxntgg .stroke-white-shadow-extra {
+  stroke: #b4c6b4;
+}
+.class-g34xxntgg .fill-yellow {
+  fill: #eaea00;
+}
+.class-g34xxntgg .fill-yellow-shadow {
+  fill: #dada00;
+}
+.class-g34xxntgg .fill-yellow-shadow-extra {
+  fill: #cbcb00;
+}
+.class-g34xxntgg .stop-color-yellow {
+  stop-color: #eaea00;
+}
+.class-g34xxntgg .stop-color-yellow-shadow {
+  stop-color: #dada00;
+}
+.class-g34xxntgg .stop-color-yellow-shadow-extra {
+  stop-color: #cbcb00;
+}
+.class-g34xxntgg .fill-green {
+  fill: #2ba24c;
+}
+.class-g34xxntgg .fill-green-shadow {
+  fill: #279244;
+}
+.class-g34xxntgg .fill-green-shadow-extra {
+  fill: #23833d;
+}
+.class-g34xxntgg .stop-color-green {
+  stop-color: #2ba24c;
+}
+.class-g34xxntgg .stop-color-green-shadow {
+  stop-color: #279244;
+}
+.class-g34xxntgg .stop-color-green-shadow-extra {
+  stop-color: #23833d;
+}
+.class-g34xxntgg .stroke-green {
+  stroke: #2ba24c;
+}
+.class-g34xxntgg .stroke-green-shadow {
+  stroke: #279244;
+}
+.class-g34xxntgg .stroke-green-shadow-extra {
+  stroke: #217a39;
+}
+.class-g34xxntgg .fill-red {
+  fill: #ce3827;
+}
+.class-g34xxntgg .fill-red-shadow {
+  fill: #b93223;
+}
+.class-g34xxntgg .fill-red-shadow-extra {
+  fill: #a62d1f;
+}
+.class-g34xxntgg .stop-color-red {
+  stop-color: #ce3827;
+}
+.class-g34xxntgg .stop-color-red-shadow {
+  stop-color: #b93223;
+}
+.class-g34xxntgg .stop-color-red-shadow-extra {
+  stop-color: #a62d1f;
+}
+.class-g34xxntgg .fill-orange {
+  fill: #f09c25;
+}
+.class-g34xxntgg .fill-orange-shadow {
+  fill: #e98f10;
+}
+.class-g34xxntgg .fill-orange-shadow-extra {
+  fill: #d1800e;
+}
+.class-g34xxntgg .stop-color-orange {
+  stop-color: #f09c25;
+}
+.class-g34xxntgg .stop-color-orange-shadow {
+  stop-color: #e98f10;
+}
+.class-g34xxntgg .stop-color-orange-shadow-extra {
+  stop-color: #d1800e;
+}
+.class-g34xxntgg .fill-blue {
+  fill: #3b7ded;
+}
+.class-g34xxntgg .fill-blue-shadow {
+  fill: #1f6bea;
+}
+.class-g34xxntgg .fill-blue-shadow-extra {
+  fill: #145eda;
+}
+.class-g34xxntgg .stop-color-blue {
+  stop-color: #3b7ded;
+}
+.class-g34xxntgg .stop-color-blue-shadow {
+  stop-color: #1f6bea;
+}
+.class-g34xxntgg .stop-color-blue-shadow-extra {
+  stop-color: #145eda;
+}
+.class-g34xxntgg .fill-color-0 {
+  fill: #8a9475;
+}
+.class-g34xxntgg .fill-color-0-shadow {
+  fill: #7c8668;
+}
+.class-g34xxntgg .fill-color-0-shadow-extra {
+  fill: #687057;
+}
+.class-g34xxntgg .stop-color-color-0 {
+  stop-color: #8a9475;
+}
+.class-g34xxntgg .fill-body-detail {
+  fill: #ffffff;
+}
+.class-g34xxntgg .stroke-color-0 {
+  stroke: #8a9475;
+}
+.class-g34xxntgg .stroke-color-0-shadow {
+  stroke: #7c8668;
+}
+.class-g34xxntgg .stroke-color-0-shadow-extra {
+  stroke: #687057;
+}</style></svg></g><g transform="matrix(0.07378576038103249,0,0,0.07378576038103248,205.81789904019723,270.0797794860865)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="230.72" height="220.33"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="230.72" height="220.33" class="class-wut25j21f"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230.72 220.33" class="class-wut25j21f">
+    <g data-name="Layer 2">
+        <path d="M123.59 5.11L152.13 63a9.19 9.19 0 006.87 5l63.82 9.27A9.17 9.17 0 01228 92.88l-46.19 45a9.19 9.19 0 00-2.64 8.12L190 209.59a9.17 9.17 0 01-13.3 9.67l-57.09-30a9.21 9.21 0 00-8.54 0l-57.07 30a9.18 9.18 0 01-13.31-9.67L51.6 146a9.18 9.18 0 00-2.6-8.1l-46.19-45a9.17 9.17 0 015.05-15.66L71.69 68a9.16 9.16 0 006.9-5l28.55-57.89a9.18 9.18 0 0116.45 0z" data-name="Layer 1" class="fill-color-0"></path>
+    </g>
+</svg></svg><style>.class-wut25j21f .fill-skin {
+  fill: #f1d9b1;
+}
+.class-wut25j21f .fill-skin-shadow {
+  fill: #ebc78d;
+}
+.class-wut25j21f .fill-hair {
+  fill: #8a9475;
+}
+.class-wut25j21f .fill-hair-shadow {
+  fill: #7c8668;
+}
+.class-wut25j21f .fill-white {
+  fill: #fbfcfb;
+}
+.class-wut25j21f .fill-white-shadow {
+  fill: #dee6de;
+}
+.class-wut25j21f .fill-white-shadow-extra {
+  fill: #c4d2c4;
+}
+.class-wut25j21f .stop-color-white {
+  stop-color: #fbfcfb;
+}
+.class-wut25j21f .stop-color-white-shadow {
+  stop-color: #dee6de;
+}
+.class-wut25j21f .stop-color-white-shadow-extra {
+  stop-color: #c4d2c4;
+}
+.class-wut25j21f .stroke-white {
+  stroke: #fbfcfb;
+}
+.class-wut25j21f .stroke-white-shadow {
+  stroke: #dee6de;
+}
+.class-wut25j21f .stroke-white-shadow-extra {
+  stroke: #b4c6b4;
+}
+.class-wut25j21f .fill-yellow {
+  fill: #eaea00;
+}
+.class-wut25j21f .fill-yellow-shadow {
+  fill: #dada00;
+}
+.class-wut25j21f .fill-yellow-shadow-extra {
+  fill: #cbcb00;
+}
+.class-wut25j21f .stop-color-yellow {
+  stop-color: #eaea00;
+}
+.class-wut25j21f .stop-color-yellow-shadow {
+  stop-color: #dada00;
+}
+.class-wut25j21f .stop-color-yellow-shadow-extra {
+  stop-color: #cbcb00;
+}
+.class-wut25j21f .fill-green {
+  fill: #2ba24c;
+}
+.class-wut25j21f .fill-green-shadow {
+  fill: #279244;
+}
+.class-wut25j21f .fill-green-shadow-extra {
+  fill: #23833d;
+}
+.class-wut25j21f .stop-color-green {
+  stop-color: #2ba24c;
+}
+.class-wut25j21f .stop-color-green-shadow {
+  stop-color: #279244;
+}
+.class-wut25j21f .stop-color-green-shadow-extra {
+  stop-color: #23833d;
+}
+.class-wut25j21f .stroke-green {
+  stroke: #2ba24c;
+}
+.class-wut25j21f .stroke-green-shadow {
+  stroke: #279244;
+}
+.class-wut25j21f .stroke-green-shadow-extra {
+  stroke: #217a39;
+}
+.class-wut25j21f .fill-red {
+  fill: #ce3827;
+}
+.class-wut25j21f .fill-red-shadow {
+  fill: #b93223;
+}
+.class-wut25j21f .fill-red-shadow-extra {
+  fill: #a62d1f;
+}
+.class-wut25j21f .stop-color-red {
+  stop-color: #ce3827;
+}
+.class-wut25j21f .stop-color-red-shadow {
+  stop-color: #b93223;
+}
+.class-wut25j21f .stop-color-red-shadow-extra {
+  stop-color: #a62d1f;
+}
+.class-wut25j21f .fill-orange {
+  fill: #f09c25;
+}
+.class-wut25j21f .fill-orange-shadow {
+  fill: #e98f10;
+}
+.class-wut25j21f .fill-orange-shadow-extra {
+  fill: #d1800e;
+}
+.class-wut25j21f .stop-color-orange {
+  stop-color: #f09c25;
+}
+.class-wut25j21f .stop-color-orange-shadow {
+  stop-color: #e98f10;
+}
+.class-wut25j21f .stop-color-orange-shadow-extra {
+  stop-color: #d1800e;
+}
+.class-wut25j21f .fill-blue {
+  fill: #3b7ded;
+}
+.class-wut25j21f .fill-blue-shadow {
+  fill: #1f6bea;
+}
+.class-wut25j21f .fill-blue-shadow-extra {
+  fill: #145eda;
+}
+.class-wut25j21f .stop-color-blue {
+  stop-color: #3b7ded;
+}
+.class-wut25j21f .stop-color-blue-shadow {
+  stop-color: #1f6bea;
+}
+.class-wut25j21f .stop-color-blue-shadow-extra {
+  stop-color: #145eda;
+}
+.class-wut25j21f .fill-color-0 {
+  fill: #8a9475;
+}
+.class-wut25j21f .fill-color-0-shadow {
+  fill: #7c8668;
+}
+.class-wut25j21f .fill-color-0-shadow-extra {
+  fill: #687057;
+}
+.class-wut25j21f .stop-color-color-0 {
+  stop-color: #8a9475;
+}
+.class-wut25j21f .fill-body-detail {
+  fill: #ffffff;
+}
+.class-wut25j21f .stroke-color-0 {
+  stroke: #8a9475;
+}
+.class-wut25j21f .stroke-color-0-shadow {
+  stroke: #7c8668;
+}
+.class-wut25j21f .stroke-color-0-shadow-extra {
+  stroke: #687057;
+}</style></svg></g><g transform="matrix(0.06945150240599782,0,0,0.06945150240599784,230.44147413077545,270.0797527506338)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="230.72" height="220.33"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="230.72" height="220.33" class="class-fxpin09hc"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230.72 220.33" class="class-fxpin09hc">
+    <g data-name="Layer 2">
+        <path d="M123.59 5.11L152.13 63a9.19 9.19 0 006.87 5l63.82 9.27A9.17 9.17 0 01228 92.88l-46.19 45a9.19 9.19 0 00-2.64 8.12L190 209.59a9.17 9.17 0 01-13.3 9.67l-57.09-30a9.21 9.21 0 00-8.54 0l-57.07 30a9.18 9.18 0 01-13.31-9.67L51.6 146a9.18 9.18 0 00-2.6-8.1l-46.19-45a9.17 9.17 0 015.05-15.66L71.69 68a9.16 9.16 0 006.9-5l28.55-57.89a9.18 9.18 0 0116.45 0z" data-name="Layer 1" class="fill-color-0"></path>
+    </g>
+</svg></svg><style>.class-fxpin09hc .fill-skin {
+  fill: #f1d9b1;
+}
+.class-fxpin09hc .fill-skin-shadow {
+  fill: #ebc78d;
+}
+.class-fxpin09hc .fill-hair {
+  fill: #8a9475;
+}
+.class-fxpin09hc .fill-hair-shadow {
+  fill: #7c8668;
+}
+.class-fxpin09hc .fill-white {
+  fill: #fbfcfb;
+}
+.class-fxpin09hc .fill-white-shadow {
+  fill: #dee6de;
+}
+.class-fxpin09hc .fill-white-shadow-extra {
+  fill: #c4d2c4;
+}
+.class-fxpin09hc .stop-color-white {
+  stop-color: #fbfcfb;
+}
+.class-fxpin09hc .stop-color-white-shadow {
+  stop-color: #dee6de;
+}
+.class-fxpin09hc .stop-color-white-shadow-extra {
+  stop-color: #c4d2c4;
+}
+.class-fxpin09hc .stroke-white {
+  stroke: #fbfcfb;
+}
+.class-fxpin09hc .stroke-white-shadow {
+  stroke: #dee6de;
+}
+.class-fxpin09hc .stroke-white-shadow-extra {
+  stroke: #b4c6b4;
+}
+.class-fxpin09hc .fill-yellow {
+  fill: #eaea00;
+}
+.class-fxpin09hc .fill-yellow-shadow {
+  fill: #dada00;
+}
+.class-fxpin09hc .fill-yellow-shadow-extra {
+  fill: #cbcb00;
+}
+.class-fxpin09hc .stop-color-yellow {
+  stop-color: #eaea00;
+}
+.class-fxpin09hc .stop-color-yellow-shadow {
+  stop-color: #dada00;
+}
+.class-fxpin09hc .stop-color-yellow-shadow-extra {
+  stop-color: #cbcb00;
+}
+.class-fxpin09hc .fill-green {
+  fill: #2ba24c;
+}
+.class-fxpin09hc .fill-green-shadow {
+  fill: #279244;
+}
+.class-fxpin09hc .fill-green-shadow-extra {
+  fill: #23833d;
+}
+.class-fxpin09hc .stop-color-green {
+  stop-color: #2ba24c;
+}
+.class-fxpin09hc .stop-color-green-shadow {
+  stop-color: #279244;
+}
+.class-fxpin09hc .stop-color-green-shadow-extra {
+  stop-color: #23833d;
+}
+.class-fxpin09hc .stroke-green {
+  stroke: #2ba24c;
+}
+.class-fxpin09hc .stroke-green-shadow {
+  stroke: #279244;
+}
+.class-fxpin09hc .stroke-green-shadow-extra {
+  stroke: #217a39;
+}
+.class-fxpin09hc .fill-red {
+  fill: #ce3827;
+}
+.class-fxpin09hc .fill-red-shadow {
+  fill: #b93223;
+}
+.class-fxpin09hc .fill-red-shadow-extra {
+  fill: #a62d1f;
+}
+.class-fxpin09hc .stop-color-red {
+  stop-color: #ce3827;
+}
+.class-fxpin09hc .stop-color-red-shadow {
+  stop-color: #b93223;
+}
+.class-fxpin09hc .stop-color-red-shadow-extra {
+  stop-color: #a62d1f;
+}
+.class-fxpin09hc .fill-orange {
+  fill: #f09c25;
+}
+.class-fxpin09hc .fill-orange-shadow {
+  fill: #e98f10;
+}
+.class-fxpin09hc .fill-orange-shadow-extra {
+  fill: #d1800e;
+}
+.class-fxpin09hc .stop-color-orange {
+  stop-color: #f09c25;
+}
+.class-fxpin09hc .stop-color-orange-shadow {
+  stop-color: #e98f10;
+}
+.class-fxpin09hc .stop-color-orange-shadow-extra {
+  stop-color: #d1800e;
+}
+.class-fxpin09hc .fill-blue {
+  fill: #3b7ded;
+}
+.class-fxpin09hc .fill-blue-shadow {
+  fill: #1f6bea;
+}
+.class-fxpin09hc .fill-blue-shadow-extra {
+  fill: #145eda;
+}
+.class-fxpin09hc .stop-color-blue {
+  stop-color: #3b7ded;
+}
+.class-fxpin09hc .stop-color-blue-shadow {
+  stop-color: #1f6bea;
+}
+.class-fxpin09hc .stop-color-blue-shadow-extra {
+  stop-color: #145eda;
+}
+.class-fxpin09hc .fill-color-0 {
+  fill: #8a9475;
+}
+.class-fxpin09hc .fill-color-0-shadow {
+  fill: #7c8668;
+}
+.class-fxpin09hc .fill-color-0-shadow-extra {
+  fill: #687057;
+}
+.class-fxpin09hc .stop-color-color-0 {
+  stop-color: #8a9475;
+}
+.class-fxpin09hc .fill-body-detail {
+  fill: #ffffff;
+}
+.class-fxpin09hc .stroke-color-0 {
+  stroke: #8a9475;
+}
+.class-fxpin09hc .stroke-color-0-shadow {
+  stroke: #7c8668;
+}
+.class-fxpin09hc .stroke-color-0-shadow-extra {
+  stroke: #687057;
+}</style></svg></g><g transform="matrix(0.07378576038103249,0,0,0.0737857603810325,252.04807274440998,270.0797794860865)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="230.72" height="220.33"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="230.72" height="220.33" class="class-lghapsla5"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230.72 220.33" class="class-lghapsla5">
+    <g data-name="Layer 2">
+        <path d="M123.59 5.11L152.13 63a9.19 9.19 0 006.87 5l63.82 9.27A9.17 9.17 0 01228 92.88l-46.19 45a9.19 9.19 0 00-2.64 8.12L190 209.59a9.17 9.17 0 01-13.3 9.67l-57.09-30a9.21 9.21 0 00-8.54 0l-57.07 30a9.18 9.18 0 01-13.31-9.67L51.6 146a9.18 9.18 0 00-2.6-8.1l-46.19-45a9.17 9.17 0 015.05-15.66L71.69 68a9.16 9.16 0 006.9-5l28.55-57.89a9.18 9.18 0 0116.45 0z" data-name="Layer 1" class="fill-color-0"></path>
+    </g>
+</svg></svg><style>.class-lghapsla5 .fill-skin {
+  fill: #f1d9b1;
+}
+.class-lghapsla5 .fill-skin-shadow {
+  fill: #ebc78d;
+}
+.class-lghapsla5 .fill-hair {
+  fill: #b2bcab;
+}
+.class-lghapsla5 .fill-hair-shadow {
+  fill: #9fac97;
+}
+.class-lghapsla5 .fill-white {
+  fill: #fbfcfb;
+}
+.class-lghapsla5 .fill-white-shadow {
+  fill: #dee6de;
+}
+.class-lghapsla5 .fill-white-shadow-extra {
+  fill: #c4d2c4;
+}
+.class-lghapsla5 .stop-color-white {
+  stop-color: #fbfcfb;
+}
+.class-lghapsla5 .stop-color-white-shadow {
+  stop-color: #dee6de;
+}
+.class-lghapsla5 .stop-color-white-shadow-extra {
+  stop-color: #c4d2c4;
+}
+.class-lghapsla5 .stroke-white {
+  stroke: #fbfcfb;
+}
+.class-lghapsla5 .stroke-white-shadow {
+  stroke: #dee6de;
+}
+.class-lghapsla5 .stroke-white-shadow-extra {
+  stroke: #b4c6b4;
+}
+.class-lghapsla5 .fill-yellow {
+  fill: #eaea00;
+}
+.class-lghapsla5 .fill-yellow-shadow {
+  fill: #dada00;
+}
+.class-lghapsla5 .fill-yellow-shadow-extra {
+  fill: #cbcb00;
+}
+.class-lghapsla5 .stop-color-yellow {
+  stop-color: #eaea00;
+}
+.class-lghapsla5 .stop-color-yellow-shadow {
+  stop-color: #dada00;
+}
+.class-lghapsla5 .stop-color-yellow-shadow-extra {
+  stop-color: #cbcb00;
+}
+.class-lghapsla5 .fill-green {
+  fill: #2ba24c;
+}
+.class-lghapsla5 .fill-green-shadow {
+  fill: #279244;
+}
+.class-lghapsla5 .fill-green-shadow-extra {
+  fill: #23833d;
+}
+.class-lghapsla5 .stop-color-green {
+  stop-color: #2ba24c;
+}
+.class-lghapsla5 .stop-color-green-shadow {
+  stop-color: #279244;
+}
+.class-lghapsla5 .stop-color-green-shadow-extra {
+  stop-color: #23833d;
+}
+.class-lghapsla5 .stroke-green {
+  stroke: #2ba24c;
+}
+.class-lghapsla5 .stroke-green-shadow {
+  stroke: #279244;
+}
+.class-lghapsla5 .stroke-green-shadow-extra {
+  stroke: #217a39;
+}
+.class-lghapsla5 .fill-red {
+  fill: #ce3827;
+}
+.class-lghapsla5 .fill-red-shadow {
+  fill: #b93223;
+}
+.class-lghapsla5 .fill-red-shadow-extra {
+  fill: #a62d1f;
+}
+.class-lghapsla5 .stop-color-red {
+  stop-color: #ce3827;
+}
+.class-lghapsla5 .stop-color-red-shadow {
+  stop-color: #b93223;
+}
+.class-lghapsla5 .stop-color-red-shadow-extra {
+  stop-color: #a62d1f;
+}
+.class-lghapsla5 .fill-orange {
+  fill: #f09c25;
+}
+.class-lghapsla5 .fill-orange-shadow {
+  fill: #e98f10;
+}
+.class-lghapsla5 .fill-orange-shadow-extra {
+  fill: #d1800e;
+}
+.class-lghapsla5 .stop-color-orange {
+  stop-color: #f09c25;
+}
+.class-lghapsla5 .stop-color-orange-shadow {
+  stop-color: #e98f10;
+}
+.class-lghapsla5 .stop-color-orange-shadow-extra {
+  stop-color: #d1800e;
+}
+.class-lghapsla5 .fill-blue {
+  fill: #3b7ded;
+}
+.class-lghapsla5 .fill-blue-shadow {
+  fill: #1f6bea;
+}
+.class-lghapsla5 .fill-blue-shadow-extra {
+  fill: #145eda;
+}
+.class-lghapsla5 .stop-color-blue {
+  stop-color: #3b7ded;
+}
+.class-lghapsla5 .stop-color-blue-shadow {
+  stop-color: #1f6bea;
+}
+.class-lghapsla5 .stop-color-blue-shadow-extra {
+  stop-color: #145eda;
+}
+.class-lghapsla5 .fill-color-0 {
+  fill: #b2bcab;
+}
+.class-lghapsla5 .fill-color-0-shadow {
+  fill: #9fac97;
+}
+.class-lghapsla5 .fill-color-0-shadow-extra {
+  fill: #84957a;
+}
+.class-lghapsla5 .stop-color-color-0 {
+  stop-color: #b2bcab;
+}
+.class-lghapsla5 .fill-body-detail {
+  fill: #ffffff;
+}
+.class-lghapsla5 .stroke-color-0 {
+  stroke: #b2bcab;
+}
+.class-lghapsla5 .stroke-color-0-shadow {
+  stroke: #9fac97;
+}
+.class-lghapsla5 .stroke-color-0-shadow-extra {
+  stroke: #84957a;
+}</style></svg></g><g transform="matrix(1.3643402997731033,0,0,1.3643402997731024,0.005376685543780013,88.06107577548502)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="148.85" height="319.46"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="148.85" height="319.46" class="class-qj9gbwcwz"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 148.85 319.46" class="class-qj9gbwcwz">
+    <g data-name="Layer 2">
+        <g data-name="Layer 1">
+            <path d="M81.5 154.13c.21 15.42-9.3 26.41-9.3 26.41" stroke-width="3" fill="none" stroke-linecap="round" stroke-miterlimit="10" class="stroke-color-0-shadow"></path>
+            <path fill="none" stroke-linecap="round" stroke-miterlimit="10" d="M70.2 182.47l2.68-2.69" class="stroke-color-0-shadow"></path>
+            <path d="M84.25 152.55c-5.14 14.54-17.86 21.56-17.86 21.56" stroke-width="3" fill="none" stroke-linecap="round" stroke-miterlimit="10" class="stroke-color-0-shadow"></path>
+            <path fill="none" stroke-linecap="round" stroke-miterlimit="10" d="M63.84 175.23l3.45-1.59" class="stroke-color-0-shadow"></path>
+            <path d="M124.39 293.81s-1.81 10.5 1.81 12.81 18.89 7.61 22.12 8.86-8.86 2.94-21.57 2.17-11.7-.88-11.7-.88.53-4.43 1.69-10.54a105.57 105.57 0 001.15-15.49zM51.31 240h-13.5c-2.32 0-2 .6-3.44 10.65-1 7-3.56 21-.64 21.87 0 0 3.2-5.93 7.43-13.46s2.2-10.18 14.36-12.14-4.21-6.92-4.21-6.92z" class="fill-white"></path>
+            <path d="M33.73 272.54h-.08a2.32 2.32 0 01-2.27-1.79 27.15 27.15 0 010-8.73c.82-7 1.75-17.24 2.94-20.55a1.5 1.5 0 011.11-1.09l1.44-.27z" class="fill-white"></path>
+            <path d="M44.3 252.57c-3.51-4.46-3.16-10.31-2.86-12.53h-3.63c-2.32 0-2 .6-3.44 10.65-1 7-3.56 21-.64 21.87 0 0 3.2-5.93 7.43-13.46 1.55-2.78 2.26-4.88 3.14-6.53z" class="fill-color-2-shadow"></path>
+            <path d="M77.31 146.79s-5.78 15.85 0 25.16 27.56 38.5 25.83 45.4S68.07 239.27 51.31 240v8.35s52.74-5.56 60.83-22.06-8.83-82.71-8.83-82.71z" class="fill-color-1-shadow"></path>
+            <path d="M115.44 153.29l18.48 73.93-9.24 72.91h-7.51s-.58-33.11 3.47-61.55-14-33.32-31.66-77.71c0 0-6.16-14.86 3.63-26.88 5.77-7.08 16.47 3.58 16.47 3.58z" class="fill-color-1-shadow"></path>
+            <path d="M98.3 63.1s30.43-5.89 33.51-9.44c2.51-2.89 1.53-26.49 1.08-35.08a4.06 4.06 0 00-2.89-3.71c-1.82-.51-4-1.41-5.09-2.88a11.72 11.72 0 01-1.7-3.2.4.4 0 01.6-.45c1.77 1.19 5.77 3.53 5.92.38.19-4-5.83-7.12-5.83-7.12l-2.22-.91s-1.53-.56 6.19-.69c4.24-.07 9.82 7.18 9.25 11.61s6 40.63 5.08 44.1-12.78 11.89-33.2 17.4S98.3 63.1 98.3 63.1z" class="fill-skin"></path>
+            <path d="M142.2 55.71s-10.88 6.83-20.55 6.69c-4-.06-3.57 3.38-.89 6.89 13.17-5.04 20.69-10.85 21.44-13.58zM66.67 71s-14.78 6.9-23.44 32.87-28.63 37.91-28.63 37.91-11.07 3.58-12.27 6.67S-1 162.06.52 160.4s5.54-7.4 7.66-7.4c1.48 0 .23 2.36-.66 3.77a.32.32 0 00.43.44 18.17 18.17 0 004.47-3.63c2.31-2.7 3.65-4.81 4.42-4.81s17.91-12.73 31-32.94 21.56-25.2 21.56-25.2z" class="fill-skin-shadow"></path>
+            <path d="M51.31 111.74l-3.56 5.88a10 10 0 01-8.57-5.42l4-8.33z" class="fill-color-0-shadow"></path>
+            <path d="M60.92 76.86C33.84 98.65 41.71 108 41.71 108l7.76 6.07c6.32 4.24 27.65-29.47 27.65-29.47" class="fill-color-0-shadow"></path>
+            <path d="M127.6 55.22l-2.53 1c-5-3.38-27.31 7-35.21 10.84-13.13 1.66-30.53 4.81-28.94 9.81 10.8 33.86 9.54 69.26 8.68 81.43a4.58 4.58 0 004.29 4.88c18.19 1.16 35.65-5.12 44-8.71a6 6 0 003.32-7.42C117.49 136 95 88.06 110.5 80.58c19.3-5.39 19.05-13.39 19-14.25l1.95-1a10.64 10.64 0 00-3.85-10.11z" class="fill-color-0"></path>
+            <path d="M88.39 33.35A10.88 10.88 0 0192.61 40c1 4.66 2 4.48 2.59 6 0 0 .25.37-.34 1.71A23.14 23.14 0 0196 54.44s-3.38 3.2-6.61 3.92-1-25.01-1-25.01z" class="fill-skin"></path>
+            <path d="M96 54.4c-2.26.53-5.74.91-8.23-.77.21 2.94.68 4.94 1.62 4.73 3.23-.72 6.61-3.92 6.61-3.92z" class="fill-skin-shadow"></path>
+            <path d="M148.81 316v1.49s-2.32 2.26-17.53 1.93c-12.49-.28-16.25-1.21-16.25-1.21v-1.45z" class="fill-white"></path>
+            <path d="M148.32 315.48c-3.09-1.2-17.17-6.09-21.57-8.54-4.44 4.29-8.59 4.36-10.83 3.95-.59 3.57-.87 5.88-.87 5.88s-1 .11 11.7.88 24.79-.92 21.57-2.17z" class="fill-color-2-shadow"></path>
+            <path d="M91.38 226.83c-11.68 6.33-29.3 12.71-40.07 13.17v8.35s22.56-2.38 40.43-8.64a49.3 49.3 0 00-.36-12.88zM119.77 170.61c-2.67 3.38-5.87 8.71-4.74 13.83 1.85 8.37 13.41 34.66 13.12 40.44-.25 5-5.25 39.14-1 55.76l6.77-53.42z" class="fill-color-1"></path>
+            <path d="M131.48 61.16l-1.45.66c-.69.32-1.5.9-1.79.19l-.55-1.37a.37.37 0 00-.68 0c-1 1.77-5.22 4-10.22 5.89-1.9.68-12.23 3.65-14.54 4.5C91.85 74.82 90 71 90 71s-13.54 2.21-29 6c10.77 33.83 9.51 69.17 8.65 81.33a4.58 4.58 0 004.29 4.88c18.19 1.16 35.65-5.12 44-8.71a6 6 0 003.61-5.94 96.64 96.64 0 01-29.66 7S90 126.67 90 114.42 105.77 100 105.77 100c-1.45-9.22-.69-16.8 4.73-19.42a56.11 56.11 0 008.47-3c.15-.06.28-.13.42-.2.41-.19.8-.39 1.18-.58l.43-.23.69-.38.25-.15c.41-.23.79-.47 1.16-.71l.29-.19c.39-.26.77-.53 1.11-.79h.07l.51-.4.2-.17c.27-.23.53-.45.76-.68a1.29 1.29 0 00.17-.16c.13-.12.26-.25.38-.38a1.29 1.29 0 00.16-.17q.28-.3.54-.6l.17-.21.25-.33q.17-.21.3-.42l.18-.28.16-.26c.06-.09.11-.18.16-.27l.21-.4v-.09a6.07 6.07 0 00.7-3.1l1.95-1a18 18 0 00.11-4.27z" class="fill-color-0-shadow"></path>
+            <path d="M95.83 65.06c-1.32-8.9-8.91-17.21-5.3-25 4.11-8.94-1.32-9.57-1.32-9.57-3.68-5.56-12-5.44-18.76 1.15s3.17 29.94-10.16 34.86c0 0-7 2.74-8.81-1a4.88 4.88 0 003.33 5.06A17.42 17.42 0 0051 78.13c-.95 3.05-4.26 10.2-13.77 5.57 0 0 4.63 13.69 23.33 10.09.13 4.1 3.78 6.36 3.78 6.36a14 14 0 01.16-6.92c8.53.1 15.48-8.4 23.09-10.62 10.16-2.97 9.55-8.61 8.24-17.55z" class="fill-color-2-shadow"></path>
+            <path d="M81.74 70.63s4.49 7.6-5.53 11.26c-19.11 7-11.89 18.26-11.89 18.26-.34-4.5 3.73-7 5.5-7.91 6.23-2.24 11.78-7.89 17.75-9.63 10.18-3 9.57-8.66 8.26-17.55s-8.91-17.21-5.3-25c4.11-8.94-1.32-9.57-1.32-9.57-3.68-5.57-12-5.44-18.77 1.15 2.21-1.82 5.4-2.77 9.92-1 0 0 5.2 1.93 5.2 5.59s-2.12 7.32 0 13.48S93.44 66.25 91.82 71c0 0-.3-9-10.18-15 0 0 10.24 7.64 4.59 22.22 0 .01.37-6.06-4.49-7.59zM129 308.06l-2.19 3.86s1.1.81 1.92 0a16.11 16.11 0 001.93-3.08zM132.27 309.41l-2.2 3.86s1.11.81 1.93 0a15.88 15.88 0 001.92-3.09zM43.14 255l-3.85-2.2s-.82 1.11 0 1.93a15.9 15.9 0 003.08 1.92zM41.55 258.2L37.7 256s-.82 1.11 0 1.92a16.11 16.11 0 003.08 1.93z" class="fill-color-2"></path>
+            <path d="M91.82 36.35L91.34 38s-2.12-4-4.26-4.14a5.64 5.64 0 014.74 2.49z" class="fill-white"></path>
+            <path d="M121.68.69l2.18.91s6 3.08 5.83 7.12c-.15 3.15-4.15.81-5.92-.38a.4.4 0 00-.6.45 11.72 11.72 0 001.7 3.2c1 1.47 3.27 2.37 5.09 2.88a4.06 4.06 0 012.93 3.71c0 .71.08 1.54.12 2.45.71-.8 1.43-1.72 1.45-4.34a25.47 25.47 0 00-.9-6.12A13 13 0 00121.68.69z" class="fill-skin-shadow"></path>
+        </g>
+    </g>
+</svg></svg><style>.class-qj9gbwcwz .fill-skin {
+  fill: #f1d9b1;
+}
+.class-qj9gbwcwz .fill-skin-shadow {
+  fill: #ebc78d;
+}
+.class-qj9gbwcwz .fill-hair {
+  fill: #b2bcab;
+}
+.class-qj9gbwcwz .fill-hair-shadow {
+  fill: #9fac97;
+}
+.class-qj9gbwcwz .fill-white {
+  fill: #fbfcfb;
+}
+.class-qj9gbwcwz .fill-white-shadow {
+  fill: #dee6de;
+}
+.class-qj9gbwcwz .fill-white-shadow-extra {
+  fill: #c4d2c4;
+}
+.class-qj9gbwcwz .stop-color-white {
+  stop-color: #fbfcfb;
+}
+.class-qj9gbwcwz .stop-color-white-shadow {
+  stop-color: #dee6de;
+}
+.class-qj9gbwcwz .stop-color-white-shadow-extra {
+  stop-color: #c4d2c4;
+}
+.class-qj9gbwcwz .stroke-white {
+  stroke: #fbfcfb;
+}
+.class-qj9gbwcwz .stroke-white-shadow {
+  stroke: #dee6de;
+}
+.class-qj9gbwcwz .stroke-white-shadow-extra {
+  stroke: #b4c6b4;
+}
+.class-qj9gbwcwz .fill-yellow {
+  fill: #eaea00;
+}
+.class-qj9gbwcwz .fill-yellow-shadow {
+  fill: #dada00;
+}
+.class-qj9gbwcwz .fill-yellow-shadow-extra {
+  fill: #cbcb00;
+}
+.class-qj9gbwcwz .stop-color-yellow {
+  stop-color: #eaea00;
+}
+.class-qj9gbwcwz .stop-color-yellow-shadow {
+  stop-color: #dada00;
+}
+.class-qj9gbwcwz .stop-color-yellow-shadow-extra {
+  stop-color: #cbcb00;
+}
+.class-qj9gbwcwz .fill-green {
+  fill: #2ba24c;
+}
+.class-qj9gbwcwz .fill-green-shadow {
+  fill: #279244;
+}
+.class-qj9gbwcwz .fill-green-shadow-extra {
+  fill: #23833d;
+}
+.class-qj9gbwcwz .stop-color-green {
+  stop-color: #2ba24c;
+}
+.class-qj9gbwcwz .stop-color-green-shadow {
+  stop-color: #279244;
+}
+.class-qj9gbwcwz .stop-color-green-shadow-extra {
+  stop-color: #23833d;
+}
+.class-qj9gbwcwz .stroke-green {
+  stroke: #2ba24c;
+}
+.class-qj9gbwcwz .stroke-green-shadow {
+  stroke: #279244;
+}
+.class-qj9gbwcwz .stroke-green-shadow-extra {
+  stroke: #217a39;
+}
+.class-qj9gbwcwz .fill-red {
+  fill: #ce3827;
+}
+.class-qj9gbwcwz .fill-red-shadow {
+  fill: #b93223;
+}
+.class-qj9gbwcwz .fill-red-shadow-extra {
+  fill: #a62d1f;
+}
+.class-qj9gbwcwz .stop-color-red {
+  stop-color: #ce3827;
+}
+.class-qj9gbwcwz .stop-color-red-shadow {
+  stop-color: #b93223;
+}
+.class-qj9gbwcwz .stop-color-red-shadow-extra {
+  stop-color: #a62d1f;
+}
+.class-qj9gbwcwz .fill-orange {
+  fill: #f09c25;
+}
+.class-qj9gbwcwz .fill-orange-shadow {
+  fill: #e98f10;
+}
+.class-qj9gbwcwz .fill-orange-shadow-extra {
+  fill: #d1800e;
+}
+.class-qj9gbwcwz .stop-color-orange {
+  stop-color: #f09c25;
+}
+.class-qj9gbwcwz .stop-color-orange-shadow {
+  stop-color: #e98f10;
+}
+.class-qj9gbwcwz .stop-color-orange-shadow-extra {
+  stop-color: #d1800e;
+}
+.class-qj9gbwcwz .fill-blue {
+  fill: #3b7ded;
+}
+.class-qj9gbwcwz .fill-blue-shadow {
+  fill: #1f6bea;
+}
+.class-qj9gbwcwz .fill-blue-shadow-extra {
+  fill: #145eda;
+}
+.class-qj9gbwcwz .stop-color-blue {
+  stop-color: #3b7ded;
+}
+.class-qj9gbwcwz .stop-color-blue-shadow {
+  stop-color: #1f6bea;
+}
+.class-qj9gbwcwz .stop-color-blue-shadow-extra {
+  stop-color: #145eda;
+}
+.class-qj9gbwcwz .fill-color-0 {
+  fill: #b2bcab;
+}
+.class-qj9gbwcwz .fill-color-0-shadow {
+  fill: #9fac97;
+}
+.class-qj9gbwcwz .fill-color-0-shadow-extra {
+  fill: #84957a;
+}
+.class-qj9gbwcwz .stop-color-color-0 {
+  stop-color: #b2bcab;
+}
+.class-qj9gbwcwz .fill-color-1 {
+  fill: #3c473b;
+}
+.class-qj9gbwcwz .fill-color-1-shadow {
+  fill: #364035;
+}
+.class-qj9gbwcwz .fill-color-1-shadow-extra {
+  fill: #2d362c;
+}
+.class-qj9gbwcwz .fill-color-2 {
+  fill: #8a9475;
+}
+.class-qj9gbwcwz .fill-color-2-shadow {
+  fill: #7c8668;
+}
+.class-qj9gbwcwz .fill-color-2-shadow-extra {
+  fill: #687057;
+}
+.class-qj9gbwcwz .fill-body-detail {
+  fill: #ffffff;
+}
+.class-qj9gbwcwz .stroke-color-0 {
+  stroke: #b2bcab;
+}
+.class-qj9gbwcwz .stroke-color-0-shadow {
+  stroke: #9fac97;
+}
+.class-qj9gbwcwz .stroke-color-0-shadow-extra {
+  stroke: #84957a;
+}
+.class-qj9gbwcwz .stroke-color-1 {
+  stroke: #3c473b;
+}
+.class-qj9gbwcwz .stroke-color-1-shadow {
+  stroke: #364035;
+}
+.class-qj9gbwcwz .stroke-color-1-shadow-extra {
+  stroke: #2d362c;
+}
+.class-qj9gbwcwz .stroke-color-2 {
+  stroke: #8a9475;
+}
+.class-qj9gbwcwz .stroke-color-2-shadow {
+  stroke: #7c8668;
+}
+.class-qj9gbwcwz .stroke-color-2-shadow-extra {
+  stroke: #687057;
+}</style></svg></g><g transform="matrix(0.07184466019417485,0,0,0.07184466019417482,355.4996168440934,187.4349091862797)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="230.72" height="220.33"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="230.72" height="220.33" class="class-twpd12jyq"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230.72 220.33" class="class-twpd12jyq">
+    <g data-name="Layer 2">
+        <path d="M123.59 5.11L152.13 63a9.19 9.19 0 006.87 5l63.82 9.27A9.17 9.17 0 01228 92.88l-46.19 45a9.19 9.19 0 00-2.64 8.12L190 209.59a9.17 9.17 0 01-13.3 9.67l-57.09-30a9.21 9.21 0 00-8.54 0l-57.07 30a9.18 9.18 0 01-13.31-9.67L51.6 146a9.18 9.18 0 00-2.6-8.1l-46.19-45a9.17 9.17 0 015.05-15.66L71.69 68a9.16 9.16 0 006.9-5l28.55-57.89a9.18 9.18 0 0116.45 0z" data-name="Layer 1" class="fill-color-0"></path>
+    </g>
+</svg></svg><style>.class-twpd12jyq .fill-skin {
+  fill: #f1d9b1;
+}
+.class-twpd12jyq .fill-skin-shadow {
+  fill: #ebc78d;
+}
+.class-twpd12jyq .fill-hair {
+  fill: #8a9475;
+}
+.class-twpd12jyq .fill-hair-shadow {
+  fill: #7c8668;
+}
+.class-twpd12jyq .fill-white {
+  fill: #fbfcfb;
+}
+.class-twpd12jyq .fill-white-shadow {
+  fill: #dee6de;
+}
+.class-twpd12jyq .fill-white-shadow-extra {
+  fill: #c4d2c4;
+}
+.class-twpd12jyq .stop-color-white {
+  stop-color: #fbfcfb;
+}
+.class-twpd12jyq .stop-color-white-shadow {
+  stop-color: #dee6de;
+}
+.class-twpd12jyq .stop-color-white-shadow-extra {
+  stop-color: #c4d2c4;
+}
+.class-twpd12jyq .stroke-white {
+  stroke: #fbfcfb;
+}
+.class-twpd12jyq .stroke-white-shadow {
+  stroke: #dee6de;
+}
+.class-twpd12jyq .stroke-white-shadow-extra {
+  stroke: #b4c6b4;
+}
+.class-twpd12jyq .fill-yellow {
+  fill: #eaea00;
+}
+.class-twpd12jyq .fill-yellow-shadow {
+  fill: #dada00;
+}
+.class-twpd12jyq .fill-yellow-shadow-extra {
+  fill: #cbcb00;
+}
+.class-twpd12jyq .stop-color-yellow {
+  stop-color: #eaea00;
+}
+.class-twpd12jyq .stop-color-yellow-shadow {
+  stop-color: #dada00;
+}
+.class-twpd12jyq .stop-color-yellow-shadow-extra {
+  stop-color: #cbcb00;
+}
+.class-twpd12jyq .fill-green {
+  fill: #2ba24c;
+}
+.class-twpd12jyq .fill-green-shadow {
+  fill: #279244;
+}
+.class-twpd12jyq .fill-green-shadow-extra {
+  fill: #23833d;
+}
+.class-twpd12jyq .stop-color-green {
+  stop-color: #2ba24c;
+}
+.class-twpd12jyq .stop-color-green-shadow {
+  stop-color: #279244;
+}
+.class-twpd12jyq .stop-color-green-shadow-extra {
+  stop-color: #23833d;
+}
+.class-twpd12jyq .stroke-green {
+  stroke: #2ba24c;
+}
+.class-twpd12jyq .stroke-green-shadow {
+  stroke: #279244;
+}
+.class-twpd12jyq .stroke-green-shadow-extra {
+  stroke: #217a39;
+}
+.class-twpd12jyq .fill-red {
+  fill: #ce3827;
+}
+.class-twpd12jyq .fill-red-shadow {
+  fill: #b93223;
+}
+.class-twpd12jyq .fill-red-shadow-extra {
+  fill: #a62d1f;
+}
+.class-twpd12jyq .stop-color-red {
+  stop-color: #ce3827;
+}
+.class-twpd12jyq .stop-color-red-shadow {
+  stop-color: #b93223;
+}
+.class-twpd12jyq .stop-color-red-shadow-extra {
+  stop-color: #a62d1f;
+}
+.class-twpd12jyq .fill-orange {
+  fill: #f09c25;
+}
+.class-twpd12jyq .fill-orange-shadow {
+  fill: #e98f10;
+}
+.class-twpd12jyq .fill-orange-shadow-extra {
+  fill: #d1800e;
+}
+.class-twpd12jyq .stop-color-orange {
+  stop-color: #f09c25;
+}
+.class-twpd12jyq .stop-color-orange-shadow {
+  stop-color: #e98f10;
+}
+.class-twpd12jyq .stop-color-orange-shadow-extra {
+  stop-color: #d1800e;
+}
+.class-twpd12jyq .fill-blue {
+  fill: #3b7ded;
+}
+.class-twpd12jyq .fill-blue-shadow {
+  fill: #1f6bea;
+}
+.class-twpd12jyq .fill-blue-shadow-extra {
+  fill: #145eda;
+}
+.class-twpd12jyq .stop-color-blue {
+  stop-color: #3b7ded;
+}
+.class-twpd12jyq .stop-color-blue-shadow {
+  stop-color: #1f6bea;
+}
+.class-twpd12jyq .stop-color-blue-shadow-extra {
+  stop-color: #145eda;
+}
+.class-twpd12jyq .fill-color-0 {
+  fill: #8a9475;
+}
+.class-twpd12jyq .fill-color-0-shadow {
+  fill: #7c8668;
+}
+.class-twpd12jyq .fill-color-0-shadow-extra {
+  fill: #687057;
+}
+.class-twpd12jyq .stop-color-color-0 {
+  stop-color: #8a9475;
+}
+.class-twpd12jyq .fill-body-detail {
+  fill: #ffffff;
+}
+.class-twpd12jyq .stroke-color-0 {
+  stroke: #8a9475;
+}
+.class-twpd12jyq .stroke-color-0-shadow {
+  stroke: #7c8668;
+}
+.class-twpd12jyq .stroke-color-0-shadow-extra {
+  stroke: #687057;
+}</style></svg></g></svg>

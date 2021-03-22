@@ -2,6 +2,7 @@
 layout: post
 title:  "Meine prism.js Konfiguration für diese Seite"
 categories: ~/code
+tags: .js
 ---
 
 Hier ist eine Liste mit den in diese Webseite eingebundenen Sprachen, hauptsächlich um mich selbst daran zu erinnern 😏.
