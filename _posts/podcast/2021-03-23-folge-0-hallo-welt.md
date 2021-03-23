@@ -10,6 +10,7 @@ duration: "42:13"
 explicit: no
 keywords: hallo welt hallo-welt test
 block: no
+opengraphImage: /assets/podcast/itunes.png
 ---
 
 Ja, ihr habt richtig gelesen. Hier geht es um nichts anderes als "Hallo Welt" in ein Mikrofon zu sagen. Und zu prüfen ob die automatische Generierung des Podcast-Feeds funktioniert.
