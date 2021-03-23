@@ -19,15 +19,15 @@ layout: null
             <itunes:email>{{ site.email }}</itunes:email>
         </itunes:owner>
         <itunes:image href="{{ site.url }}/assets/podcast/itunes.png" />
-        <itunes:category text="Education">
-            <itunes:category text="Educational Technology" />
-        </itunes:category>
+        <itunes:category text="Education" />
         <itunes:category text="Technology" />
         <itunes:explicit>no</itunes:explicit>
         {% for post in site.categories["~/podcast"] %}
         <item>
             <title>{{ post.title | xml_escape }}</title>
+            <link><{{ site.url }}{{ post.url }}/link>
             <itunes:author>{{ site.author }}</itunes:author>
+            <itunes:title>{{ post.title | xml_escape }}</itunes:title>
             <itunes:subtitle>{{ site.podcastTitle | xml_escape }} | {{ post.title | xml_escape }}</itunes:subtitle>
             <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
             <itunes:image href="{{ site.url }}/assets/podcast/itunes.png" />
