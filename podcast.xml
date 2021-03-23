@@ -20,7 +20,7 @@ layout: null
         </itunes:owner>
         <itunes:image href="{{ site.url }}/assets/podcast/itunes.png" />
         <itunes:category text="Education">
-            <itunes:cateogry text="Educational Technology" />
+            <itunes:category text="Educational Technology" />
         </itunes:category>
         <itunes:category text="Technology" />
         <itunes:explicit>no</itunes:explicit>
