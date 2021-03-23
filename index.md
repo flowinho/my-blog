@@ -19,7 +19,3 @@ Ihr könnt meine Inhalte also auf folgende Art und Weise verwenden:
 - **Share alike** -- Ihr könnt die Inhalt und Seiten dieses Blogs frei verteilen, so lange die oben genannten Bedingungen erfüllt werden.
 
 Weitere Details sind der [LICENSE.txt](https://github.com/flowinho/my-blog/blob/master/LICENSE.txt) zu entnehmen.
-
-<div align="center">
-<img src="/assets/illustrations/illustratious_custom.svg" />
-</div>
