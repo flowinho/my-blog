@@ -8,9 +8,13 @@ dedication: >-
   Gewidmet meinen wundervollen Kindern. ♥️
 permalink: :year/:month/:day/:title:output_ext
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.fschuttkowski.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: flowinho
 github_username:  flowinho
+
+# Podcast-Stuff
+podcastTitle: "Flo erklärt"
+podcastDescription: "Um ein Thema wahrhaftig zu verstehen, musst du in der Lage sein es jemand anderem zu erklären. -- Aber vor allem erspart es dir bestimmte Dinge mehrfach zu erklären."
 
 # Build settings
 future: false
