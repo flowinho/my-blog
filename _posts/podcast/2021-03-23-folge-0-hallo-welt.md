@@ -1,6 +1,6 @@
 ---
 title: "Folge 0: Hallo Welt"
-layout: post
+layout: episode
 category: ~/podcast
 tags: .podcast 
 summary: "Folge 0: Hallo Welt beinhaltet mich wie ich die Worte Hallo Welt in beschissener Tonqualität einspreche."
@@ -15,6 +15,6 @@ opengraphImage: /assets/podcast/itunes.png
 
 Ja, ihr habt richtig gelesen. Hier geht es um nichts anderes als "Hallo Welt" in ein Mikrofon zu sagen. Und zu prüfen ob die automatische Generierung des Podcast-Feeds funktioniert.
 
-<audio crossorigin playsinline>
-    <source src="{{ page.file }}" type="audio/mp3">
-</audio>
+Ich habe keine Ahnung ob die erste Folge überhaupt durch die Podcast- Review kommt, aber ich kann es nur hoffen! ❤️
+
+Entsprechend wird der Button "Anhören auf Apple Podcasts nicht funktionieren - die Show ist ja noch nicht durch die Review."
