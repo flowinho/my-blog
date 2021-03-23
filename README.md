@@ -1,4 +1,4 @@
-![](/assets/github-screenshots/photo-4.png)
+![](/assets/github-screenshots/photo-2.png)
 
 # .devDiary {}
 
