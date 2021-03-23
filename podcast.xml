@@ -25,7 +25,7 @@ layout: null
         {% for post in site.categories["~/podcast"] %}
         <item>
             <title>{{ post.title | xml_escape }}</title>
-            <link><{{ site.url }}{{ post.url }}/link>
+            <link><{{ site.url }}{{ post.url }}</link>
             <itunes:author>{{ site.author }}</itunes:author>
             <itunes:title>{{ post.title | xml_escape }}</itunes:title>
             <itunes:subtitle>{{ site.podcastTitle | xml_escape }} | {{ post.title | xml_escape }}</itunes:subtitle>
