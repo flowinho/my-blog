@@ -5,8 +5,8 @@ category: ~/podcast
 tags: .podcast 
 summary: "Folge 0: Hallo Welt beinhaltet mich wie ich die Worte Hallo Welt in beschissener Tonqualität einspreche."
 file: "https://archive.org/download/flo-erklaert-folge0/flo-erklaert-folge0.mp3"
-length: 1234567890
-duration: "42:13"
+length: 60000
+duration: "00:05"
 explicit: no
 keywords: hallo welt hallo-welt test
 block: no
