@@ -23,13 +23,13 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <h2>Auf dieser Website hören:</h2>
-    <div class="audioplayer">
-      <audio crossorigin playsinline controls>
-          <source src="{{ page.file }}" type="audio/mp3">
-      </audio>
-    </div>
+    <div style="max-width: 500px; margin: auto;">
+      <img src="/assets/podcast/itunes.png"/>
+  </div>
     <br />
+    <h2>Zusammenfassung</h2>
+    {{ page.summary }}
+    <br /><br />
       <h2>Show Notes</h2>
 
     {% if page.keywords.size > 0 %}
@@ -38,6 +38,12 @@ layout: default
 <br /><br />
     {{ content }}
 
+    <h2>Auf dieser Website hören:</h2>
+    <div class="audioplayer">
+      <audio crossorigin playsinline controls>
+          <source src="{{ page.file }}" type="audio/mp3">
+      </audio>
+    </div>
     <br />
     <img src="/assets/podcast/DE_Apple_Podcasts_Listen_Badge_RGB.svg" />
     <img src="/assets/podcast/pocketcasts_medium_dark.svg" />
