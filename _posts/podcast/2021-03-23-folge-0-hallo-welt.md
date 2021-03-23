@@ -17,4 +17,4 @@ Ja, ihr habt richtig gelesen. Hier geht es um nichts anderes als "Hallo Welt" in
 
 Ich habe keine Ahnung ob die erste Folge überhaupt durch die Podcast- Review kommt, aber ich kann es nur hoffen! ❤️
 
-Entsprechend wird der Button "Anhören auf Apple Podcasts nicht funktionieren - die Show ist ja noch nicht durch die Review."
+Entsprechend wird der Button "Anhören auf Apple Podcasts" nicht funktionieren - die Show ist ja noch nicht durch die Review.
