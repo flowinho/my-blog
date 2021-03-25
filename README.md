@@ -1,5 +1,9 @@
 ![](/assets/github-screenshots/photo-4.png)
 
+![](https://img.shields.io/github/languages/count/flowinho/my-blog) ![](https://img.shields.io/github/languages/top/flowinho/my-blog) ![](https://img.shields.io/github/languages/code-size/flowinho/my-blog) ![](https://img.shields.io/github/repo-size/flowinho/my-blog) ![](https://img.shields.io/github/contributors/flowinho/my-blog) ![](https://img.shields.io/github/last-commit/flowinho/my-blog) ![](https://img.shields.io/github/deployments/flowinho/my-blog/github-pages?label=github-pages) ![](https://img.shields.io/badge/dedicated--to-my--daughters-important)
+
+![](https://github.com/flowinho/my-blog/actions/workflows/github-pages.yml/badge.svg)
+
 # .devDiary {}
 
 A little info about your project and/ or overview that explains what the project is about.
@@ -8,11 +12,6 @@ A little info about your project and/ or overview that explains what the project
 
 A short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.
 
-## Build status
-
-![](https://img.shields.io/github/languages/count/flowinho/my-blog) ![](https://img.shields.io/github/languages/top/flowinho/my-blog) ![](https://img.shields.io/github/languages/code-size/flowinho/my-blog) ![](https://img.shields.io/github/repo-size/flowinho/my-blog) ![](https://img.shields.io/github/contributors/flowinho/my-blog) ![](https://img.shields.io/github/last-commit/flowinho/my-blog) ![](https://img.shields.io/github/deployments/flowinho/my-blog/github-pages?label=github-pages) ![](https://img.shields.io/badge/dedicated--to-my--daughters-important)
-
-![](https://github.com/flowinho/my-blog/actions/workflows/github-pages.yml/badge.svg)
 
 ## Code style
 
