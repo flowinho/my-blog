@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2007/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="de-de">
+    <channel>
+        <atom:link href="https://blog.fschuttkowski.xyz/podcast.rss" rel="self" type="application/rss+xml" />
+        <title>Flo erklärt</title>
+        <link>https://blog.fschuttkowski.xyz</link>
+        <language>de-de</language>
+        <copyright>2021 Flo erklärt</copyright>
+ 
+        <itunes:author>Florian Schuttkowski</itunes:author>
+        <itunes:summary>Um ein Thema wahrhaftig zu verstehen, musst du in der Lage sein es jemand anderem zu erklären. -- Aber vor allem erspart es dir bestimmte Dinge mehrfach zu erklären.</itunes:summary>
+        <description>Um ein Thema wahrhaftig zu verstehen, musst du in der Lage sein es jemand anderem zu erklären. -- Aber vor allem erspart es dir bestimmte Dinge mehrfach zu erklären.</description>
+        <webMaster>contact [at] flowinho [com] (Florian Schuttkowski)</webMaster>
+        <itunes:owner>
+            <itunes:name>Florian Schuttkowski</itunes:name>
+            <itunes:email>contact [at] flowinho [com]</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://blog.fschuttkowski.xyz/assets/podcast/itunes.png" />
+        <itunes:category text="Education" />
+        <itunes:category text="Technology" />
+        <itunes:explicit>no</itunes:explicit>
+        
+        <item> 
+            <title>Folge 0: Hallo Welt</title>
+            <link>https://blog.fschuttkowski.xyz/2021/03/23/folge-0-hallo-welt.html</link>
+            <itunes:author>Florian Schuttkowski</itunes:author>
+            <itunes:title>Folge 0: Hallo Welt</itunes:title>
+            <itunes:subtitle>Flo erklärt | Folge 0: Hallo Welt</itunes:subtitle>
+            <itunes:summary>Folge 0: Hallo Welt beinhaltet mich wie ich die Worte Hallo Welt in beschissener Tonqualität einspreche.</itunes:summary>
+            <itunes:image href="https://blog.fschuttkowski.xyz/assets/podcast/itunes.png" />
+            <enclosure url="https://f002.backblazeb2.com/file/FLW-podcast/episodes/flo-erklaert-folge0.mp3" length="62166" type="audio/mp3" />
+            <guid isPermalink="true">https://blog.fschuttkowski.xyz/2021/03/23/folge-0-hallo-welt.html</guid>
+            <pubdate>Tue, 23 Mar 2021 00:00:00 +0100</pubdate>
+            <itunes:duration>00:05</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+            <description>
+                Folge 0: Hallo Welt beinhaltet mich wie ich die Worte Hallo Welt in beschissener Tonqualität einspreche. Show Notes sind hier verfügbar: https://blog.fschuttkowski.xyz/2021/03/23/folge-0-hallo-welt.html
+            </description>
+            <itunes:keywords>hallo welt hallo-welt test</itunes:keywords>
+            <itunes:block>false</itunes:block>
+        </item>
+        
+    </channel>
+</rss>
+
